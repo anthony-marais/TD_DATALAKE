@@ -1,0 +1,26 @@
+## PARAMS PATHS LINUX
+
+source_path_linux = "/home//Documents/TD_DATALAKE/DATALAKE/0_SOURCE_WEB"
+logfiles_path_linux = "/home//Documents/TD_DATALAKE/LOGFILES"
+landing_zone_linkedin_emp_path_linux = "/home//Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/LINKEDIN/EMP/"
+landing_zone_glassdoor_soc_path_linux = "/home//Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/SOC/"
+landing_zone_glassdoor_avi_path_linux = "/home//Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/"
+path_linux = "/home//Documents/TD_DATALAKE/DATALAKE/0_SOURCE_WEB"
+
+## PARAMS PATHS WINDOWS
+
+source_path_windows = "C:/TD_DATALAKE/DATALAKE/0_SOURCE_WEB"
+logfiles_path_windows = "C:/TD_DATALAKE/LOGFILES"
+landing_zone_linkedin_emp_path_windows = "C:/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/LINKEDIN/EMP/"
+landing_zone_glassdoor_soc_path_windows = "C:/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/SOC/"
+landing_zone_glassdoor_avi_path_windows = "C:/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/"
+path_windows = "C:/TD_DATALAKE/DATALAKE/0_SOURCE_WEB"
+
+## PARAM BEAUTIFUL SOUP
+
+linkedin_contains = "LINKEDIN"
+glassdoor_soc_contains = "INFO-SOC"
+glassdoor_avi_contains = "AVIS-SOC"
+endswith = ".html"
+contains_1 = "INFO"
+contains_2 = "LINKEDIN"

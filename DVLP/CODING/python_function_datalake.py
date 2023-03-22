@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup as bs
 import pandas as pd
+import numpy as np
 from datetime import datetime
 import os
 import shutil
@@ -42,6 +43,9 @@ def GenerateOSPathProject(os_system):
         contains_1 = os.environ.get('contains_1')
         contains_2 = os.environ.get('contains_2')
         delimiter_path = "/"
+        curated_zone_linkedin_emp_path = os.environ.get(
+            'curated_zone_linkedin_emp_path_linux').replace("//", "/"+user+"/")
+        metadate_file_name_path = logfiles_path+"/metadata-technical.csv"
 
     elif os_system == "Windows":
         source_path = os.environ.get('source_path_windows')
@@ -60,8 +64,9 @@ def GenerateOSPathProject(os_system):
         contains_1 = os.environ.get('contains_1')
         contains_2 = os.environ.get('contains_2')
         delimiter_path = "\\"
-
-    return source_path, logfiles_path, landing_zone_linkedin_emp_path, landing_zone_glassdoor_soc_path, landing_zone_glassdoor_avi_path, linkedin_contains, glassdoor_soc_contains, glassdoor_avi_contains, path, endswith, contains_1, contains_2, delimiter_path
+        curated_zone_linkedin_emp_path = os.environ.get('curated_zone_linkedin_emp_path_windows')
+        metadate_file_name_path = logfiles_path+"/metadata-technical.csv"
+    return source_path, logfiles_path, landing_zone_linkedin_emp_path, landing_zone_glassdoor_soc_path, landing_zone_glassdoor_avi_path, linkedin_contains, glassdoor_soc_contains, glassdoor_avi_contains, path, endswith, contains_1, contains_2, delimiter_path,curated_zone_linkedin_emp_path,metadate_file_name_path
 
 
 ''' Function to count number of file in a directory '''
@@ -118,7 +123,7 @@ def MakeMetadataFile(file_path, file_size):
     return df
 
 
-def MoveFileToLandingZone(source_path, endswith, linkedin_contains, glassdoor_soc_contains, glassdoor_avi_contains, landing_zone_linkedin_emp_path, landing_zone_glassdoor_soc_path, landing_zone_glassdoor_avi_path, logfiles_path, delimiter_path):
+def MoveFileToLandingZone(source_path, endswith, linkedin_contains, glassdoor_soc_contains, glassdoor_avi_contains, landing_zone_linkedin_emp_path, landing_zone_glassdoor_soc_path, landing_zone_glassdoor_avi_path, logfiles_path, delimiter_path,metadate_file_name_path):
 
     file_path = GetFilesPath(source_path, endswith, delimiter_path)
     files_sizes = file_size(file_path)
@@ -165,7 +170,73 @@ def MoveFileToLandingZone(source_path, endswith, linkedin_contains, glassdoor_so
     general_metadata["File_Destination_Size"] = general_metadata["File_Destination_Size"].apply(
         lambda x: x[0])
 
-    general_metadata.to_csv(logfiles_path+"/metadata-technical.csv",
+
+    general_metadata.to_csv(metadate_file_name_path,
                             index=None, encoding="utf-8", header=True)
 
-    return general_metadata
+    return general_metadata,
+
+
+
+def LoadMetadataFiles(metadate_file_name_path):
+    """
+    Load metadata files
+    """
+    metadata = pd.read_csv(metadate_file_name_path)
+    return metadata
+
+
+
+def GetData(metadate_file_name_path, delimiter_path,curated_zone_linkedin_emp_path):
+    ''' Function to get data from html file where the file name contains a specific string (INFO) AND (LINKEDIN) '''
+
+    """
+    Call LoadMetadataFiles function
+    """
+    landing_zone_path = LoadMetadataFiles(metadate_file_name_path)
+    
+    linkedin_files = landing_zone_path[landing_zone_path["File_Path_Destination"].str.contains("LINKEDIN")]
+    len_linkedin_files = len(linkedin_files)
+    glassdoor_avis_files = landing_zone_path[landing_zone_path["File_Path_Destination"].str.contains("AVIS-SOC")]
+    len_glassdoor_avis_files = len(glassdoor_avis_files)
+    glassdoor_soc_files = landing_zone_path[landing_zone_path["File_Path_Destination"].str.contains("INFO-SOC")]
+    len_glassdoor_soc_files = len(glassdoor_soc_files)
+    
+    print("Number of Linkedin files: ", len_linkedin_files)
+    print("Number of Glassdoor avis files: ", len_glassdoor_avis_files)
+    print("Number of Glassdoor soc files: ", len_glassdoor_soc_files)
+    list_of_data = []
+    title_file = []
+    columns_dataframe = ["file","title","society","city","description"]
+    data_title = []
+    data_society = []
+    data_city = []
+    data_country = []
+    data_description = []
+
+
+    for i in linkedin_files["File_Path_Destination"]:
+        title_file.append(i)
+
+        
+        with open(i, 'r', encoding="utf-8",errors="replace") as f:
+            soup = bs(f, 'html.parser')
+            title = [i for i in soup.find_all('h1', attrs = {'class':'topcard__title'})]
+            title_text = title[0].text
+            society = [i for i in soup.find_all('span', attrs = {'class':'topcard__flavor'})]
+            society_text = society[0].text
+            city = [i for i in soup.find_all('span', attrs = {'class':'topcard__flavor topcard__flavor--bullet'})]
+            description = [i for i in soup.find_all('div', attrs = {'class':'description__text description__text--rich'})]
+            
+            city_text = city[0].text    
+            description_text = description[0].text
+            data_title.append(title_text)
+            data_society.append(society_text)
+            data_city.append(city_text)
+            data_description.append(description_text)
+
+    data_linkedin = pd.DataFrame(list(zip(title_file,data_title,data_society,data_city,data_description)),columns=columns_dataframe)
+    data_linkedin.index = np.arange(1, len(data_linkedin) + 1)
+
+    data_linkedin.to_csv(curated_zone_linkedin_emp_path+"/data_linkedin.csv", index=True,encoding="utf-8",header=True)
+    print("Dataframe Linkedin saved in: ", curated_zone_linkedin_emp_path+"/data_linkedin.csv")

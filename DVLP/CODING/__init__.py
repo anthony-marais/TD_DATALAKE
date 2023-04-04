@@ -18,7 +18,7 @@ contains_2 = path_project[11]
 delimiter_path = path_project[12]
 curated_zone_linkedin_emp_path = path_project[13]
 metadate_file_name_path = path_project[14]
-
+curated_zone_glassdoor_avis_path = path_project[15]
 #print(source_path)
 #print(logfiles_path)
 #print(landing_zone_linkedin_emp_path)
@@ -40,4 +40,4 @@ MoveFileToLandingZone(source_path, endswith, linkedin_contains, glassdoor_soc_co
                       landing_zone_linkedin_emp_path, landing_zone_glassdoor_soc_path, landing_zone_glassdoor_avi_path, logfiles_path, delimiter_path,metadate_file_name_path)
 
 
-GetData(metadate_file_name_path, delimiter_path,curated_zone_linkedin_emp_path)
+GetData(metadate_file_name_path, delimiter_path,curated_zone_linkedin_emp_path,curated_zone_glassdoor_avis_path)

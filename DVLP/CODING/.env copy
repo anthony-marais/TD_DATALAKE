@@ -6,6 +6,7 @@ landing_zone_linkedin_emp_path_linux = "/home//Documents/TD_DATALAKE/DATALAKE/1_
 landing_zone_glassdoor_soc_path_linux = "/home//Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/SOC/"
 landing_zone_glassdoor_avi_path_linux = "/home//Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/"
 path_linux = "/home//Documents/TD_DATALAKE/DATALAKE/0_SOURCE_WEB"
+curated_zone_linkedin_emp_path_linux = "/home//Documents/TD_DATALAKE/DATALAKE/2_CURATED_ZONE/LINKEDIN/EMP/"
 
 ## PARAMS PATHS WINDOWS
 
@@ -15,6 +16,7 @@ landing_zone_linkedin_emp_path_windows = "C:/TD_DATALAKE/DATALAKE/1_LANDING_ZONE
 landing_zone_glassdoor_soc_path_windows = "C:/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/SOC/"
 landing_zone_glassdoor_avi_path_windows = "C:/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/"
 path_windows = "C:/TD_DATALAKE/DATALAKE/0_SOURCE_WEB"
+curated_zone_linkedin_emp_path_windows = "C:/TD_DATALAKE/DATALAKE/2_CURATED_ZONE/LINKEDIN/EMP/"
 
 ## PARAM BEAUTIFUL SOUP
 

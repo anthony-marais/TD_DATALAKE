@@ -7,6 +7,9 @@ import shutil
 import platform
 import getpass
 from dotenv import load_dotenv
+from tqdm import tqdm
+import re
+import pytz
 
 
 def GetOS():
@@ -46,6 +49,8 @@ def GenerateOSPathProject(os_system):
         curated_zone_linkedin_emp_path = os.environ.get(
             'curated_zone_linkedin_emp_path_linux').replace("//", "/"+user+"/")
         metadate_file_name_path = logfiles_path+"/metadata-technical.csv"
+        curated_zone_glassdoor_avis_path = os.environ.get(
+            'curated_zone_glassdoor_avis_path_linux').replace("//", "/"+user+"/")
 
     elif os_system == "Windows":
         source_path = os.environ.get('source_path_windows')
@@ -64,9 +69,13 @@ def GenerateOSPathProject(os_system):
         contains_1 = os.environ.get('contains_1')
         contains_2 = os.environ.get('contains_2')
         delimiter_path = "\\"
-        curated_zone_linkedin_emp_path = os.environ.get('curated_zone_linkedin_emp_path_windows')
+        curated_zone_linkedin_emp_path = os.environ.get(
+            'curated_zone_linkedin_emp_path_windows')
         metadate_file_name_path = logfiles_path+"/metadata-technical.csv"
-    return source_path, logfiles_path, landing_zone_linkedin_emp_path, landing_zone_glassdoor_soc_path, landing_zone_glassdoor_avi_path, linkedin_contains, glassdoor_soc_contains, glassdoor_avi_contains, path, endswith, contains_1, contains_2, delimiter_path,curated_zone_linkedin_emp_path,metadate_file_name_path
+        curated_zone_glassdoor_avis_path = os.environ.get(
+            'curated_zone_glassdoor_avis_path_linux').replace("//", "/"+user+"/")
+
+    return source_path, logfiles_path, landing_zone_linkedin_emp_path, landing_zone_glassdoor_soc_path, landing_zone_glassdoor_avi_path, linkedin_contains, glassdoor_soc_contains, glassdoor_avi_contains, path, endswith, contains_1, contains_2, delimiter_path, curated_zone_linkedin_emp_path, metadate_file_name_path, curated_zone_glassdoor_avis_path
 
 
 ''' Function to count number of file in a directory '''
@@ -123,7 +132,7 @@ def MakeMetadataFile(file_path, file_size):
     return df
 
 
-def MoveFileToLandingZone(source_path, endswith, linkedin_contains, glassdoor_soc_contains, glassdoor_avi_contains, landing_zone_linkedin_emp_path, landing_zone_glassdoor_soc_path, landing_zone_glassdoor_avi_path, logfiles_path, delimiter_path,metadate_file_name_path):
+def MoveFileToLandingZone(source_path, endswith, linkedin_contains, glassdoor_soc_contains, glassdoor_avi_contains, landing_zone_linkedin_emp_path, landing_zone_glassdoor_soc_path, landing_zone_glassdoor_avi_path, logfiles_path, delimiter_path, metadate_file_name_path):
 
     file_path = GetFilesPath(source_path, endswith, delimiter_path)
     files_sizes = file_size(file_path)
@@ -170,12 +179,10 @@ def MoveFileToLandingZone(source_path, endswith, linkedin_contains, glassdoor_so
     general_metadata["File_Destination_Size"] = general_metadata["File_Destination_Size"].apply(
         lambda x: x[0])
 
-
     general_metadata.to_csv(metadate_file_name_path,
                             index=None, encoding="utf-8", header=True)
 
     return general_metadata,
-
 
 
 def LoadMetadataFiles(metadate_file_name_path):
@@ -186,57 +193,139 @@ def LoadMetadataFiles(metadate_file_name_path):
     return metadata
 
 
-
-def GetData(metadate_file_name_path, delimiter_path,curated_zone_linkedin_emp_path):
+def GetData(metadate_file_name_path, delimiter_path, curated_zone_linkedin_emp_path, curated_zone_glassdoor_avis_path):
     ''' Function to get data from html file where the file name contains a specific string (INFO) AND (LINKEDIN) '''
 
     """
     Call LoadMetadataFiles function
     """
     landing_zone_path = LoadMetadataFiles(metadate_file_name_path)
-    
-    linkedin_files = landing_zone_path[landing_zone_path["File_Path_Destination"].str.contains("LINKEDIN")]
+
+    linkedin_files = landing_zone_path[landing_zone_path["File_Path_Destination"].str.contains(
+        "LINKEDIN")]
     len_linkedin_files = len(linkedin_files)
-    glassdoor_avis_files = landing_zone_path[landing_zone_path["File_Path_Destination"].str.contains("AVIS-SOC")]
+    glassdoor_avis_files = landing_zone_path[landing_zone_path["File_Path_Destination"].str.contains(
+        "AVIS-SOC")]
     len_glassdoor_avis_files = len(glassdoor_avis_files)
-    glassdoor_soc_files = landing_zone_path[landing_zone_path["File_Path_Destination"].str.contains("INFO-SOC")]
+    glassdoor_soc_files = landing_zone_path[landing_zone_path["File_Path_Destination"].str.contains(
+        "INFO-SOC")]
     len_glassdoor_soc_files = len(glassdoor_soc_files)
-    
+
     print("Number of Linkedin files: ", len_linkedin_files)
     print("Number of Glassdoor avis files: ", len_glassdoor_avis_files)
     print("Number of Glassdoor soc files: ", len_glassdoor_soc_files)
     list_of_data = []
     title_file = []
-    columns_dataframe = ["file","title","society","city","description"]
+    columns_dataframe = ["file", "title", "society", "city", "description"]
     data_title = []
     data_society = []
     data_city = []
     data_country = []
     data_description = []
 
+    list_data_avis = []
+    columns_dataframe_avis = ["file", "society", "date", "avis_positif",
+                              "avis_negatif", "status", "poste", "localisation", "mean_rate", "general_rate"]
+    title_avis = []
+    avis_society = []
+    date_avis_glassdoor = []
+    avis_positif_list = []
+    avis_negatif_list = []
+    status_list = []
+    poste_list = []
+    localisation_list = []
+    mean_rate_list = []
+    rate_list = []
 
-    for i in linkedin_files["File_Path_Destination"]:
+    print("\n")
+
+    for i in tqdm(linkedin_files["File_Path_Destination"], desc="Loading...", ascii=False, ncols=75, bar_format="{l_bar}{bar:20}{r_bar}", colour="green"):
         title_file.append(i)
 
-        
-        with open(i, 'r', encoding="utf-8",errors="replace") as f:
+        with open(i, 'r', encoding="utf-8", errors="replace") as f:
             soup = bs(f, 'html.parser')
-            title = [i for i in soup.find_all('h1', attrs = {'class':'topcard__title'})]
+            title = [i for i in soup.find_all(
+                'h1', attrs={'class': 'topcard__title'})]
             title_text = title[0].text
-            society = [i for i in soup.find_all('span', attrs = {'class':'topcard__flavor'})]
+            society = [i for i in soup.find_all(
+                'span', attrs={'class': 'topcard__flavor'})]
             society_text = society[0].text
-            city = [i for i in soup.find_all('span', attrs = {'class':'topcard__flavor topcard__flavor--bullet'})]
-            description = [i for i in soup.find_all('div', attrs = {'class':'description__text description__text--rich'})]
-            
-            city_text = city[0].text    
+            city = [i for i in soup.find_all(
+                'span', attrs={'class': 'topcard__flavor topcard__flavor--bullet'})]
+            description = [i for i in soup.find_all(
+                'div', attrs={'class': 'description__text description__text--rich'})]
+
+            city_text = city[0].text
             description_text = description[0].text
             data_title.append(title_text)
             data_society.append(society_text)
             data_city.append(city_text)
             data_description.append(description_text)
 
-    data_linkedin = pd.DataFrame(list(zip(title_file,data_title,data_society,data_city,data_description)),columns=columns_dataframe)
+    print("Number of Linkedin files process: ", len_linkedin_files, "\n")
+    data_linkedin = pd.DataFrame(list(zip(
+        title_file, data_title, data_society, data_city, data_description)), columns=columns_dataframe)
     data_linkedin.index = np.arange(1, len(data_linkedin) + 1)
+    data_linkedin.to_csv(curated_zone_linkedin_emp_path +
+                         "/data_linkedin.csv", index=True, encoding="utf-8", header=True)
+    print("Dataframe Linkedin saved in: ",
+          curated_zone_linkedin_emp_path+"/data_linkedin.csv")
+    print("\n")
 
-    data_linkedin.to_csv(curated_zone_linkedin_emp_path+"/data_linkedin.csv", index=True,encoding="utf-8",header=True)
-    print("Dataframe Linkedin saved in: ", curated_zone_linkedin_emp_path+"/data_linkedin.csv")
+    for i in tqdm(glassdoor_avis_files["File_Path_Destination"], desc="Loading...", ascii=False, ncols=75, bar_format="{l_bar}{bar:20}{r_bar}", colour="green"):
+        title_avis.append(i)
+        with open(i, 'r', encoding="utf-8", errors="replace") as f:
+            soup = bs(f, 'html.parser')
+            avis_society = [i for i in soup.find_all(
+                'p', attrs={"class": "h1 strong tightAll"})]
+            avis_society_text = avis_society[0].text
+            date_avis = [i for i in soup.find_all(
+                'time', attrs={'class': 'date subtle small'})][0].text
+            avis_positif = [i for i in soup.find(
+                string='Avantages').findNext('p')]
+            avis_negatif = [i for i in soup.find(
+                string='Inconvénients').findNext('p')]
+            result_avis_positif = avis_positif if len(
+                avis_positif) > 0 else "None"
+            result_avis_negatif = avis_negatif if len(
+                avis_negatif) > 0 else "None"
+
+            status = [i for i in soup.find_all(
+                'span', attrs={"class": "authorJobTitle middle reviewer"})][0].text
+            status_text = status.split("-")[0].strip()
+            poste = status.split(
+                "-")[1].strip() if len(status.split("-")) > 1 else "None"
+            localisation = [i for i in soup.find_all(
+                'span', attrs={"class": "authorLocation"})]
+            result_localisation = localisation[0].text if len(
+                localisation) > 0 else "None"
+            mean_rate = [i for i in soup.find_all('div', attrs={
+                                                  "class": "v2__EIReviewsRatingsStylesV2__ratingNum v2__EIReviewsRatingsStylesV2__large"})]
+
+            rate_match = soup.find_all('span', attrs={
+                                       "class": "gdStars gdRatings sm mr-sm mr-md-std stars__StarsStyles__gdStars"})[0].span.contents[0]
+
+            rate = re.sub(
+                r'<span class="(.*)" title="(.*)">(.*)</span>(.*)', r'\2', str(rate_match))
+
+            list_data_avis.append(avis_society_text)
+            date_avis_glassdoor.append(date_avis)
+            avis_positif_list.append(result_avis_positif[0].text)
+            avis_negatif_list.append(result_avis_negatif[0].text)
+            status_list.append(status_text)
+            poste_list.append(poste)
+            localisation_list.append(result_localisation)
+            mean_rate_list.append(mean_rate[0].text)
+            rate_list.append(rate)
+
+    print("Number of Glassdoor avis files process: ", len_glassdoor_avis_files, "\n")
+    data_glassdoor_avis = pd.DataFrame(list(zip(title_avis, list_data_avis, date_avis_glassdoor, avis_positif_list,
+                                       avis_negatif_list, status_list, poste_list, localisation_list, mean_rate_list, rate_list)), columns=columns_dataframe_avis)
+    data_glassdoor_avis.index = np.arange(1, len(data_glassdoor_avis) + 1)
+    data_glassdoor_avis.to_csv(
+        curated_zone_glassdoor_avis_path+"/data_glassdoor_avis.csv", index=True, encoding="utf-8", header=True)
+    print("\n")
+
+    print("Dataframe avis glassdoor saved in: ",
+          curated_zone_glassdoor_avis_path+"/data_glassdoor_avis.csv")
+    print("\n")

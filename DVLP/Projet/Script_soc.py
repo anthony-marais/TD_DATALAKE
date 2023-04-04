@@ -57,15 +57,14 @@ def Get_ville_entreprise_SOC(Soup):
 # ==============================================================================
 
 def Get_taille_entreprise_SOC(Soup):
-       myTest = str(Soup.find_all('div', attrs={'class': "infoEntity"})[2].span.contents[0])
-        if (myTest == []):
+    myTest = str(Soup.find_all('div', attrs={'class': "infoEntity"})[2].span.contents[0])
+    if (myTest == []):
         Result = 'NULL'
-   else: 
+    else: 
         myTxtTmp = str(myTest)
-     myTxtTmp1 = re.sub(
-         r'(.*)<h1 class=" strong tightAll" data-company="(.*)" title="">(.*)', r'\2', myTxtTmp)
-      Result = myTxtTmp1
-  return(Result)
+        myTxtTmp1 = re.sub(r'(.*)<h1 class=" strong tightAll" data-company="(.*)" title="">(.*)', r'\2', myTxtTmp)
+        Result = myTxtTmp1
+    return(Result)
 
 
 # ==============================================================================

@@ -58,3 +58,14 @@ Pour le bon fonctionnement du projet un fichier .env est nécessaire, celui-ci c
 Lors du partage des sources sur GitHub l'une des bonne pratique mise en place est de ne pas 'Push' le fichier .env du projet, mais d'en envoyer un fichier exemple.
 
 Dans le répertoire **'TD_DATALAKE/DVLP/CODING'** vous trouverais un fichier nommé **'.env copy'** renommez le en : **'.env'**.
+
+## Lancement du programme
+
+Le fichier main.py dans le répertoire  **'TD_DATALAKE/DVLP/CODING'** contient le code pour lancer l'ensemble du projet.
+
+Lors du lancement un petit menu apparaitra pour vous permettre de selectionner la tâche spécifique que vous voulez effectuer :
+
+>1. Move file from source to landing zone
+>2. Get data from Linkedin
+>3. Get data from Glassdoor avis
+>4. Get data from Glassdoor society

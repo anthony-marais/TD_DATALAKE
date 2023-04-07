@@ -1,4 +1,4 @@
-from python_function_datalake import MoveFileToLandingZone, GetOS,GenerateOSPathProject, GetDataLinkedin, GetDataGlassdoorAvis
+from python_function_datalake import MoveFileToLandingZone, GetOS,GenerateOSPathProject, GetDataLinkedin, GetDataGlassdoorAvis, GetDataGlassdoorSociety
 import click
 
 os_system = GetOS()
@@ -19,6 +19,7 @@ delimiter_path = path_project[12]
 curated_zone_linkedin_emp_path = path_project[13]
 metadate_file_name_path = path_project[14]
 curated_zone_glassdoor_avis_path = path_project[15]
+curated_zone_glassdoor_soc_path = path_project[16]
 
 
 MoveFileToLandingZone(source_path, endswith, linkedin_contains, glassdoor_soc_contains, glassdoor_avi_contains,
@@ -30,3 +31,5 @@ MoveFileToLandingZone(source_path, endswith, linkedin_contains, glassdoor_soc_co
 GetDataLinkedin(metadate_file_name_path, curated_zone_linkedin_emp_path)
 
 GetDataGlassdoorAvis(metadate_file_name_path, curated_zone_glassdoor_avis_path)
+
+GetDataGlassdoorSociety(metadate_file_name_path, curated_zone_glassdoor_soc_path)

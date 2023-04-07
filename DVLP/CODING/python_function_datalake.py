@@ -51,6 +51,8 @@ def GenerateOSPathProject(os_system):
         metadate_file_name_path = logfiles_path+"/metadata-technical.csv"
         curated_zone_glassdoor_avis_path = os.environ.get(
             'curated_zone_glassdoor_avis_path_linux').replace("//", "/"+user+"/")
+        curated_zone_glassdoor_soc_path = os.environ.get(
+            'curated_zone_glassdoor_soc_path_linux').replace("//", "/"+user+"/")
 
     elif os_system == "Windows":
         source_path = os.environ.get('source_path_windows')
@@ -73,9 +75,10 @@ def GenerateOSPathProject(os_system):
             'curated_zone_linkedin_emp_path_windows')
         metadate_file_name_path = logfiles_path+"/metadata-technical.csv"
         curated_zone_glassdoor_avis_path = os.environ.get(
-            'curated_zone_glassdoor_avis_path_linux').replace("//", "/"+user+"/")
-
-    return source_path, logfiles_path, landing_zone_linkedin_emp_path, landing_zone_glassdoor_soc_path, landing_zone_glassdoor_avi_path, linkedin_contains, glassdoor_soc_contains, glassdoor_avi_contains, path, endswith, contains_1, contains_2, delimiter_path, curated_zone_linkedin_emp_path, metadate_file_name_path, curated_zone_glassdoor_avis_path
+            'curated_zone_glassdoor_avis_path_windows')
+        curated_zone_glassdoor_soc_path = os.environ.get(
+            'curated_zone_glassdoor_soc_path_windows')
+    return source_path, logfiles_path, landing_zone_linkedin_emp_path, landing_zone_glassdoor_soc_path, landing_zone_glassdoor_avi_path, linkedin_contains, glassdoor_soc_contains, glassdoor_avi_contains, path, endswith, contains_1, contains_2, delimiter_path, curated_zone_linkedin_emp_path, metadate_file_name_path, curated_zone_glassdoor_avis_path,curated_zone_glassdoor_soc_path
 
 
 ''' Function to count number of file in a directory '''
@@ -303,4 +306,61 @@ def GetDataGlassdoorAvis(metadate_file_name_path, curated_zone_glassdoor_avis_pa
 
     print("Dataframe avis glassdoor saved in: ",
           curated_zone_glassdoor_avis_path+"/data_glassdoor_avis.csv")
+    print("\n")
+
+
+
+def GetDataGlassdoorSociety(metadate_file_name_path, curated_zone_glassdoor_soc_path):
+    ''' Function to get data from html file where the file name contains a specific string (AVIS-SOC) '''
+
+    landing_zone_path = LoadMetadataFiles(metadate_file_name_path)
+    glassdoor_soc_files = landing_zone_path[landing_zone_path["File_Path_Destination"].str.contains(
+        "INFO-SOC")]
+    len_glassdoor_soc_files = len(glassdoor_soc_files)
+
+    print("Number of Glassdoor soc files: ", len_glassdoor_soc_files)
+    glassdoor_society_name_list = []
+    title_glassdoor_soc = []
+    glassdoor_soc_city_list = []
+    glassdoor_soc_size_list = []
+    glassdoor_secteur_list = []
+    glassdoor_fondation_list = []
+    glassdoor_soc_website_list = []
+    columns_glassdoor_soc = ["file", "society",
+                             "city", "size", "secteur", "fondation", "website"]
+
+    print("\n")
+
+    for i in tqdm(glassdoor_soc_files["File_Path_Destination"], desc="Loading...", ascii=False, ncols=75, bar_format="{l_bar}{bar:20}{r_bar}", colour="green"):
+        title_glassdoor_soc.append(i)
+        with open(i, 'r', encoding="utf-8", errors="replace") as f:
+            soup = bs(f, 'html.parser')
+
+            glassdoor_society_name = [i for i in soup.find_all(
+                'h1', attrs={'class': "strong tightAll"})[0]]
+            glassdoor_society_name_list.append(
+                glassdoor_society_name[0].string)
+            glassdoor_soc_city_list.append(soup.find_all(
+                'div', attrs={'class': "infoEntity"})[1].span.string)
+            glassdoor_soc_size_list.append(soup.find_all(
+                'div', attrs={'class': "infoEntity"})[2].span.string)
+            # .findNext('span').text)#.findNext('span').text)
+            glassdoor_secteur_list.append(
+                soup.find(string='Secteur').findNext('span').string if len(soup.find(string='Secteur').findNext('span').string) > 0 else "None")
+
+            glassdoor_fondation_list.append(soup.find(string=['Fondé en', 'Créé en dans les années', 'existe depuis']).findNext('span').string
+                                            if len(soup.find(string=['Fondé en', 'Créé en dans les années', 'existe depuis']).findNext('span').string) > 0 else "None")
+
+            glassdoor_soc_website_list.append(re.sub(r'(.*)<h1 class=" strong tightAll" data-company="(.*)" title="">(.*)', r'\2', str(soup.find_all('div', attrs={'class': "infoEntity"})[0].string)) if len(soup.find_all('div', attrs={'class': "infoEntity"})) > 0 else "None")
+    print("Number of Glassdoor soc files process: ",
+          len_glassdoor_soc_files, "\n")
+    data_glassdoor_soc = pd.DataFrame(list(zip(title_glassdoor_soc, glassdoor_society_name_list, glassdoor_soc_city_list,
+                                      glassdoor_soc_size_list, glassdoor_secteur_list, glassdoor_fondation_list, glassdoor_soc_website_list)), columns=columns_glassdoor_soc)
+    data_glassdoor_soc.index = np.arange(1, len(data_glassdoor_soc) + 1)
+    data_glassdoor_soc.to_csv(
+        curated_zone_glassdoor_soc_path+"/data_glassdoor_soc.csv", index=True, encoding="utf-8", header=True)
+    print("\n")
+
+    print("Dataframe avis glassdoor saved in: ",
+          curated_zone_glassdoor_soc_path+"/data_glassdoor_soc.csv")
     print("\n")

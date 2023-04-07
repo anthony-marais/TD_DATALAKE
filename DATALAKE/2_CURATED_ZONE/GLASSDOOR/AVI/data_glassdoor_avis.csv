@@ -1,33 +1,10 @@
 ,file,society,date,avis_positif,avis_negatif,status,poste,localisation,mean_rate,general_rate
-1,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13713-AVIS-SOC-GLASSDOOR-E3142186_P1.html,Crédit Agricole,"Dec 12, 2019",13 mois et intéressement,"Évolution de poste extrêmement lente 
-Pression commerciale (toujours plus de vente) 
-Manque d’empathie de la direction",Employé actuel,Conseiller commercial,Coutances,0.0,2.0
-2,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13679-AVIS-SOC-GLASSDOOR-E906809_P1.html,Fortuneo SA,"Nov 23, 2019","- projets variés et intéressants
-- équilibre vie pro / vie perso (et 24 RTTs !) 
-- équipes jeunes et dynamiques
-- management à l'écoute","- inertie/frilosité dans les prises de décision
-- impact important du contexte réglementaire",Employé actuel,Employé anonyme,Paris,3.5,5.0
-3,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13673-AVIS-SOC-GLASSDOOR-E1464013_P1.html,Paris Inn Group,"Nov 6, 2019","- Très bon environnement & collègues
-- Société en pleine croissance",- changement d'effectifs trop fréquent,Ancien stagiaire,Revenue Manager Assistant,Paris,2.2,5.0
-4,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13646-AVIS-SOC-GLASSDOOR-E3489_P1.html,LVMH,"Dec 9, 2019","Tickets restaurant 200€, locaux modernes.",Pas de salles de sport / douches accessibles aux alternants,Employé actuel,Chargé De Projets,Paris,3.7,5.0
-5,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13732-AVIS-SOC-GLASSDOOR-E158808_P1.html,Keyrus Group,"Dec 9, 2019",Des équipes humaines et très compétentes techniquement.,Manques de propositions de missions par le circuit classique (commerciaux) autour des thématiques du Cloud.,Employé actuel,Ingénieur Projet 1,Lyon,4.0,4.0
-6,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13645-AVIS-SOC-GLASSDOOR-E14590_P2.html,Sephora,"Sep 30, 2019",International Excellence Innovation Développement Responsabilités,Il n'y a pas d'inconvénients,Ancien employé,Employé anonyme,"Montréal, QC",3.6,5.0
-7,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13626-AVIS-SOC-GLASSDOOR-E3765_P1.html,BMO Financial Group,"Nov 24, 2019","Collègues sympathiques, pas de vente forcée (au téléphone), bon salaire.","Moins bons avantages sociaux que les autres banques, manque de discipline, personnel incompétent qui garde le même poste pendant plusieurs années.",Ancien employé,Agent Service clientèle,"Montréal, QC",3.7,3.0
-8,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13622-AVIS-SOC-GLASSDOOR-E847875_P1.html,Morgan Philips Executive Search,"Jul 4, 2019","Bonne ambiance, locaux bien placés",Il n y en a pas,Employé actuel,Employé anonyme,Neuilly,3.9,3.0
-9,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13587-AVIS-SOC-GLASSDOOR-E1838_P2.html,Robert Half,"Jul 3, 2019","Société qui sait challenger ses collaborateurs,  donne toutes les clés pour faire monter en compétence les équipes, beaucoup d'évolutions et de promotions en interne ! Du dynamisme, des équipes soudées, de l'envie, et de nombreux outils mis en places en interne (tablettes, locaux...)",Manque de flexibilité sur les horaires,Employé actuel,Division Manager,Paris,3.6,5.0
-10,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13723-AVIS-SOC-GLASSDOOR-E373493_P2.html,Micropole,"Jun 3, 2019","Gestion de ma carrière,  la recherche d'expertise et certification, la technologie",Des missions que régie...Peut être créer un centre de service,Employé actuel,Manager,Lille,3.2,5.0
-11,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13553-AVIS-SOC-GLASSDOOR-E5304_P1.html,Atos-Syntel,"Jul 4, 2019",Excellente opportunité d'apprentissage et de progression pour les juniors,Pas beaucoup,Employé actuel,Employé anonyme,None,3.4,5.0
-12,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13777-AVIS-SOC-GLASSDOOR-E116383_P2.html,GFI,"Apr 22, 2015","Comité d'entreprise, tickets restaurant, choix des missions",Pas de connaissance du marché,Employé actuel,consultant moa banque finance,Neuilly,2.9,3.0
-13,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13801-AVIS-SOC-GLASSDOOR-E736804_P2.html,La Redoute,"Jan 1, 2019","Une grande variété de jobs, des gens très pro.",Une boîte qui se cherche encore,Employé actuel,Employé anonyme,Roubaix,3.9,3.0
-14,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13758-AVIS-SOC-GLASSDOOR-E5694_P1.html,OpenText,"Nov 24, 2019","Salaire
-Voiture de fonction
-Pas mal de gens sympa","Open space très bruyant avec + de 30 personnes
-Mauvais management
-Stratégie commerciale catastrophique
-3 commerciaux sur  17 ont atteint l'objectif
-Turnover mondial supérieur à 60% pour les sales
-Grrandes  difficultés à ce faire payer  les primes",Employé actuel,Senior Account Manager,Paris,3.2,1.0
-15,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13643-AVIS-SOC-GLASSDOOR-E2411165_P1.html,Altran Telnet,"Oct 17, 2019","*Bonne ambiance entre collègues
+1,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13574-AVIS-SOC-GLASSDOOR-E1130973_P2.html,Groupe Adéquat,"Nov 24, 2017","Valeurs humaines et respect des individus, peu importe leur place dans l'entreprise, leur qualification et leur ancienneté",Mutuelle beaucoup trop chère -> environ 50€/salarié/mois,Employé actuel,Chargée De Recrutement,"Chaumont, Champagne-Ardenne",3.9,5.0
+2,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13779-AVIS-SOC-GLASSDOOR-E33451_P1.html,GFI Software,"Apr 22, 2016",La mutuelle et le CE me paraissaient relativement interessants,"GFI ressemble à beaucoup d'autres SSII importantes, par l'effectif, qui ont eu une croissance externe importante tout en conservant une organisation et une gestion  de grosse PME",,None,Lyon,2.2,2.0
+3,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13700-AVIS-SOC-GLASSDOOR-E1127781_P2.html,CELINE,"Feb 20, 2018","Tres bonne ambiance et esprit d'equpe,  des collègues très compétents et passionnés.  Le cadre de travail est agréable,  le travail de chaque collaborateur est valorisé et apprecié.  C’était une super expérience.","Comme c'est le cas souvent dans les maisons de mode, l'ambiance et le rythme de travail peuvent évoluer selon les changements au niveau de la direction artistique.  Cela n’était pas le cas pendant mon temps au sein de la maison.",Ancien employé,Employé anonyme,Paris,3.0,5.0
+4,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13691-AVIS-SOC-GLASSDOOR-E1130973_P2.html,Groupe Adéquat,"Nov 24, 2017","Valeurs humaines et respect des individus, peu importe leur place dans l'entreprise, leur qualification et leur ancienneté",Mutuelle beaucoup trop chère -> environ 50€/salarié/mois,Employé actuel,Chargée De Recrutement,"Chaumont, Champagne-Ardenne",3.9,5.0
+5,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13761-AVIS-SOC-GLASSDOOR-E1366034_P2.html,Artefact,"Feb 5, 2019","Cadre, Ambiance,  salaire, Evolution",Rien à dire. Pas d'inconvénients ...,Ancien employé,Employé anonyme,Paris,4.0,4.0
+6,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13643-AVIS-SOC-GLASSDOOR-E2411165_P1.html,Altran Telnet,"Oct 17, 2019","*Bonne ambiance entre collègues
 *Esprit d'équipe
 *Bonne rémunération par rapport au marché","*Société de famille
 *Mal organisée
@@ -35,80 +12,38 @@ Grrandes  difficultés à ce faire payer  les primes",Employé actuel,Senior Acc
 *Projets peu intéressants 
 *Absence de contribution de RH
 *Pas de visibilité",Employé actuel,Employé anonyme,Tunis,2.0,2.0
-16,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13571-AVIS-SOC-GLASSDOOR-E1061225_P2.html,Expertime,"Jul 10, 2018","Très bonne ambiance, bonnes conditions de travail, convivialité, contexte international de travail",Situation géographique en banlieue bien desservie mais assez loin de Paris,Intérimaire actuel,Intérimaire anonyme,Viroflay,3.7,4.0
-17,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13801-AVIS-SOC-GLASSDOOR-E736804_P1.html,La Redoute,"Nov 25, 2019","La force d'un grand groupe, mais des équipes à taille humaine.",Je ne trouve pas d'inconvénient,Ancien employé,Employé anonyme,Roubaix,3.9,4.0
-18,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13709-AVIS-SOC-GLASSDOOR-E1365869_P2.html,Groupe Crédit Agricole du Maroc,"Sep 25, 2018",On apprends énormément dans de très bonnes conditions.,Les stagiaires ne sont pas rémunérés.,Stagiaire actuel,Stagiaire anonyme,Rabat,3.3,4.0
-19,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13711-AVIS-SOC-GLASSDOOR-E3043501_P1.html,Crédit Agricole d'Ile de France,"Dec 13, 2019","Rémunération, formation, expérience reconnu sur le cv",Pas vraiment d'inconvénient à ce jour,Employé actuel,Assistant Chargé D'Affaires,Paris,3.5,3.0
-20,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13627-AVIS-SOC-GLASSDOOR-E253618_P1.html,Concordia University,"Apr 30, 2019","multicultural, agreeable, interesting, dynamic","theory, CDD, na, na",Employé actuel,Chercheur postdoctoral,"Montréal, QC",4.0,4.0
-21,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13778-AVIS-SOC-GLASSDOOR-E9028_P1.html,Gfi Informatique,"Dec 12, 2019","Des missions plutôt sympa, des managers à l'écoute, et les missions en CDS juste à côté de la gare Lille Flandres",Quelques projets sur d'anciennes stack techniques,Employé actuel,Analyste technique,Lille,3.4,5.0
-22,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13558-AVIS-SOC-GLASSDOOR-E6162_P2.html,Dassault Systemes,"May 19, 2019","Stabilité, avantages ce, nombre de congés, environnement très cool. Projets très innovants","Environnement de dev un peu oldschool,",Employé actuel,Ingénieur Logiciel,Vélizy,3.7,4.0
-23,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13701-AVIS-SOC-GLASSDOOR-E1132974_P1.html,Les Echos,"Sep 25, 2019",Le cadre et évidemment les missions,"L'emplacement du site, mais c'est personnel.",Employé actuel,Employé anonyme,Paris,3.8,4.0
-24,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13762-AVIS-SOC-GLASSDOOR-E253138_P1.html,Artefact Group,"Jul 24, 2018","Carte Apetiz, mutuelle, remboursement à 50% des titres de transports",Les horaires : le rythme est soutenu,Employé actuel,Employé anonyme,None,3.9,5.0
-25,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13649-AVIS-SOC-GLASSDOOR-E2548_P1.html,Manpower,"Dec 12, 2019",Avantage sur le CA de l'agence,"Pression commerciale, axé sur la quantité que la qualité",Employé actuel,Chargée De Recrutement,Paris,4.3,2.0
-26,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13693-AVIS-SOC-GLASSDOOR-E762009_P1.html,Datadog,"Jul 30, 2019","Un produit incroyable qui offre une des meilleures solutions sur le marché. 
+7,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13553-AVIS-SOC-GLASSDOOR-E5304_P1.html,Atos-Syntel,"Jul 4, 2019",Excellente opportunité d'apprentissage et de progression pour les juniors,Pas beaucoup,Employé actuel,Employé anonyme,None,3.4,5.0
+8,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13778-AVIS-SOC-GLASSDOOR-E9028_P2.html,Gfi Informatique,"Nov 16, 2019",Les missions sont plutôt intéressantes,La rémunération est vraiment trop basse et les augmentations sont dérisoires.,Employé actuel,UX Designer,Niort,3.4,3.0
+9,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13626-AVIS-SOC-GLASSDOOR-E3765_P1.html,BMO Financial Group,"Nov 24, 2019","Collègues sympathiques, pas de vente forcée (au téléphone), bon salaire.","Moins bons avantages sociaux que les autres banques, manque de discipline, personnel incompétent qui garde le même poste pendant plusieurs années.",Ancien employé,Agent Service clientèle,"Montréal, QC",3.7,3.0
+10,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13693-AVIS-SOC-GLASSDOOR-E762009_P1.html,Datadog,"Jul 30, 2019","Un produit incroyable qui offre une des meilleures solutions sur le marché. 
 Les membres de l'équipe de l'ingénierie et des ventes sont vraiment concentrés sur l'apport de ce qu'il y a de mieux à nos clients. 
 Nous avons connu une croissance très rapide au cours des 3 dernières années et tout le monde travaille pour s'assurer que Datadog innove sur tous les piliers qui constituent notre plateforme. 
 C'est une...","Beaucoup de choses à livrer, mais cela vaut la peine en ce qui concerne la situation de l'entreprise sur le marché.",Employé actuel,Chargé De Clientèle,Paris,3.7,5.0
-27,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13602-AVIS-SOC-GLASSDOOR-E3516_P1.html,Volvo Group,"Dec 5, 2019",Groupe international avec vrai diversité,Procédures super lents et lourdes,Employé actuel,acheteur famille,Lyon,4.0,3.0
-28,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13741-AVIS-SOC-GLASSDOOR-E1132227_P1.html,JEMS Group,"Nov 24, 2019","- Propositions de formation
-- Liberté d'étre force de proposition et bonne communication",Aucun à noter pour le moment,Employé actuel,Employé anonyme,Paris,4.3,5.0
-29,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13619-AVIS-SOC-GLASSDOOR-E800152_P2.html,SoLocal Group,"Sep 9, 2019","Diversité des projets
-Work life balance
-Evenements
-Mobilité interne","Pyramidal
-Budgets gelés
-Innovation bridée
-Management archaique
-Salaires qui augmentent peu",Ancien employé,Employé anonyme,"Bordeaux, Aquitaine",2.9,4.0
-30,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13575-AVIS-SOC-GLASSDOOR-E1922609_P1.html,Multimedia France Productions,"Jan 5, 2018",Aucun vu qu'on  n'est pas payé.,On n'est pas payé si MFP n'est pas payé par ses propres clients. Sacré inconvénient et sacrément illégal ! Essaie de vous faire signer des contrats a posteriori modifiant les termes convenus à la commande.,Ancien freelance,Sous,Paris,1.0,1.0
-31,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13780-AVIS-SOC-GLASSDOOR-E35333_P1.html,GFI Group,"Jun 24, 2017",personnel ouvert intéressant et jeune,trop petite société pas assez de monde,Senior,None,"Londres, Angleterre",3.2,3.0
-32,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13652-AVIS-SOC-GLASSDOOR-E788645_P2.html,ITS Group,"Feb 2, 2019",Il n'y a aucun avantage dans cette société,"Je suis indépendant, j'ai travaillé presque 9 mois pour ITS. Pas un seul mois j'ai reçu mon salaire en temps et en heure. 
-Je ne reçois aucun mail d'excuses... Super conseil de ma responsable ""un indépendant doit avoir de la trésorie"". Quel manque de respect. 
-C'est vraiment honteux comme retour. Vous mettez des gens en difficultés. Vousne vous rendez pas compte dans les situations dans lesquels vous pouvez nous...",Ancien employé,Employé anonyme,Lyon,3.5,1.0
-33,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13745-AVIS-SOC-GLASSDOOR-E3803_P1.html,Capgemini,"Dec 12, 2019","challenge intellectuel, montee en competences","Les joournees peuvent etre longues, l'integration n'est pas tres organisee",Employé actuel,Employé anonyme,Paris,3.6,4.0
-34,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13650-AVIS-SOC-GLASSDOOR-E809243_P1.html,ITS,"Sep 14, 2018",esprit de grupe et equipe rh,grille salaire predefini plus adapté au junior,Employé actuel,Consultatnt,Paris,3.4,4.0
-35,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13677-AVIS-SOC-GLASSDOOR-E1063459_P1.html,CALIDA Group,"Apr 4, 2018","Une ambiance sportive
-Des opportunitées & missions multiples",Difficultés de communication intermarques et interdépartements,Ancien stagiaire,Stagiaire Marketing,Annecy-le-Vieux,4.0,4.0
-36,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13758-AVIS-SOC-GLASSDOOR-E5694_P2.html,OpenText,"Mar 19, 2018",Salle de jeux et bons collègues.,Bureau régional et non primaire.,Ancien employé,Employé anonyme,Paris,3.2,4.0
-37,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13647-AVIS-SOC-GLASSDOOR-E241449_P1.html,Statkraft AS,"Apr 27, 2019",Une entreprise apte à se réinventer. Ouvrez-vous à un travail autonome et à de belles opportunités pour relever de nouveaux défis. Bonne ambiance et bonnes conditions de travail.,"Silos. Doit s’ouvrir à davantage d’interactions et de collaboration entre les différentes équipes/compétences et interfaces.  
-Analyste des risques",Employé actuel,Anonymous,None,4.0,4.0
-38,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13764-AVIS-SOC-GLASSDOOR-E1164584_P1.html,Artefacts Studio,"May 22, 2017",Expérience personnellement enrichissante de par  la diversité des projets gérés durant mes 4 ans.,Un studio qui gagne à être davantage connu,,None,None,4.6,5.0
-39,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13791-AVIS-SOC-GLASSDOOR-E116383_P1.html,GFI,"Sep 24, 2019","CE, mutuelle, intranet, à l'écoute des envies des collaborateurs",Peu d'expérience chez gfi je ne sais pas encore,Employé actuel,Product Owner,"Saint-Ouen, Île-de-France",2.9,4.0
-40,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13746-AVIS-SOC-GLASSDOOR-E589990_P2.html,Capgemini Invent,"Oct 16, 2019","Les avantages sont :
-- très bon niveau d'exigence en data science
-- bon équilibre vie personnelle / travail
-- possibilité d'être en contact avec le client
-- équipe jeune
-- formations en internes proposées","- staffing peu clair
-- de grosses periodes de creux dûes à un manque de projets",Ancien employé,Employé anonyme,Paris,4.0,4.0
-41,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13546-AVIS-SOC-GLASSDOOR-E12966_P1.html,Devoteam,"Dec 12, 2019",Salaire acceptable pour un junior,"CE n’est pas intéressante, RAS",Ancien employé,Employé anonyme,Paris,4.1,3.0
-42,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13724-AVIS-SOC-GLASSDOOR-E1126011_P1.html,alptis assurances,"Jul 8, 2019","Ambiance, entraide, participation projets interentreprise","Outils de gestion, moyens informatique, manque de communication",Employé actuel,Employé anonyme,Lyon,3.4,3.0
-43,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13800-AVIS-SOC-GLASSDOOR-E1443740_P2.html,ibis,"May 7, 2018",Très bonne expérience sur gros porteur,Beaucoup d'activité on ne s’arrête jamais,Ancien employé,Assistant Chef De Reception,Roissy,3.9,5.0
-44,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13639-AVIS-SOC-GLASSDOOR-E7448_P1.html,Altran Group,"Dec 12, 2019","Cadre payé à l’heure et non au forfait.
-Remboursement frais km.",Le salaire est bas salaire.,Employé actuel,Ingénieur Consultant,Belfort,3.5,4.0
-45,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13617-AVIS-SOC-GLASSDOOR-E139323_P1.html,CNH Industrial Capital,"Nov 12, 2019","Flexibilité 
-Opportunités 
-International 
-Ambiance 
-Autonomie","Désordre 
-Management 
-Organisation 
-Manque de projets 
-Mode de travail",Employé actuel,Employé anonyme,None,3.9,4.0
-46,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13612-AVIS-SOC-GLASSDOOR-E845851_P2.html,Feu Vert,"Oct 22, 2017",Le milieu automobile est intéressant et enrichissant,Les salaires ne sont pas élevés,,None,Lyon,2.8,2.0
-47,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13661-AVIS-SOC-GLASSDOOR-E633820_P1.html,Sii Poland,"Mar 11, 2019","Très bonne ambiance
-Bons projets
-Avantages sympathiques",Beaucoup de turn over des employés,Employé actuel,ingénieur developpeur,Cesson-Sévigné,4.8,5.0
-48,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13710-AVIS-SOC-GLASSDOOR-E476908_P2.html,CACIB,"Jun 18, 2019",Bonne vision et capacité d'exécution,Rien d'important à signaler,Ancien employé,Responsable informatique de l'API,Paris,3.5,5.0
-49,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13625-AVIS-SOC-GLASSDOOR-E192082_P1.html,Polytechnique Montréal,"Sep 15, 2019","Grande liberté 
-Autonomie
-Équipements de pointe
-Compétences des équipes",Les rémunérations sont limitées (recherche universitaire),Employé actuel,Docto,"Montréal, QC",4.4,5.0
-50,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13689-AVIS-SOC-GLASSDOOR-E2098670_P1.html,Adsearch,"Nov 5, 2019","Travail d'équipe, horaire appréciable, formateur","La Rémunération du à l'alternance,",Employé actuel,Chargée De Recrutement,Lyon,4.5,5.0
-51,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13803-AVIS-SOC-GLASSDOOR-E20114_P2.html,Veolia,"Oct 8, 2019",Grosse structure avec des moyens,Grosse structure avec des lenteurs decisionnelles,,None,Marseille,3.4,4.0
-52,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13655-AVIS-SOC-GLASSDOOR-E717393_P1.html,Canon ITS,"Mar 7, 2019","Égalité des sexes, environnement de travail convivial,",you should be self-discipline and curious to keep updated  cause no one asks you to keep learning,Ancien employé,Développeur,"Shanghai, Shanghai",3.2,4.0
-53,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13791-AVIS-SOC-GLASSDOOR-E116383_P2.html,GFI,"Apr 22, 2015","Comité d'entreprise, tickets restaurant, choix des missions",Pas de connaissance du marché,Employé actuel,consultant moa banque finance,Neuilly,2.9,3.0
-54,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13576-AVIS-SOC-GLASSDOOR-E18712_P1.html,Modis,"Dec 13, 2019",Rien ne me vient à l'esprit,"-     Missions inintéressantes et qui ne correspondent pas du tout  à vos attentes
+11,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13587-AVIS-SOC-GLASSDOOR-E1838_P1.html,Robert Half,"Dec 10, 2019",Aucuns avantages à être chez eux à part le véhicule de fonction au bout d'un an et demi d'ancienneté. Encore faut-il les atteindre.,"équipe de zinzins, des incompétents, imbus d'eux mêmes, sans aucune qualité managériale.",Ancien employé,Employé anonyme,"Saint-Mard, Île-de-France",3.6,1.0
+12,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13778-AVIS-SOC-GLASSDOOR-E9028_P1.html,Gfi Informatique,"Dec 12, 2019","Des missions plutôt sympa, des managers à l'écoute, et les missions en CDS juste à côté de la gare Lille Flandres",Quelques projets sur d'anciennes stack techniques,Employé actuel,Analyste technique,Lille,3.4,5.0
+13,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13602-AVIS-SOC-GLASSDOOR-E3516_P1.html,Volvo Group,"Dec 5, 2019",Groupe international avec vrai diversité,Procédures super lents et lourdes,Employé actuel,acheteur famille,Lyon,4.0,3.0
+14,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13584-AVIS-SOC-GLASSDOOR-E1044716_P2.html,Smile Group,"May 30, 2019","Diversité des missions, des collègues sympa, une bonne ambiance, la direction ne flic pas les employés","Locaux, salaires, travail en silos, manque de visions sur les projets",Employé actuel,Employé anonyme,Villeurbanne,3.7,3.0
+15,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13701-AVIS-SOC-GLASSDOOR-E1132974_P2.html,Les Echos,"Dec 12, 2017","50% titre de transport
+Accès au restaurant d'entreprise, très varié",Bouclage quotidien et travail sous pression,Ancien stagiaire,Stagiaire anonyme,Paris,3.8,4.0
+16,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13626-AVIS-SOC-GLASSDOOR-E3765_P2.html,BMO Financial Group,"Aug 30, 2018","Ambiance, rabais sur les produits",Mauvaise gestion et peut de possibilité d'avancement,preteur,None,"Montréal, QC",3.7,3.0
+17,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13708-AVIS-SOC-GLASSDOOR-E4252_P1.html,Groupe Crédit Agricole,"Dec 10, 2019","Groupe collaboratif, salaire, missions variées (valable pour la banque en général)","Des périodes creuses parfois trop nombreuses
+Une déconnexion des services",Employé actuel,Stagiaire,Casablanca,3.8,4.0
+18,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13607-AVIS-SOC-GLASSDOOR-E301204_P1.html,Volvo Information Technology,"Dec 4, 2016","Culture suédoise, bon équilibre entre vie professionnelle et vie privée",Certains anciens sont là depuis très longtemps et ne veulent pas vraiment accepter le changement.,Ancien employé,Anonymous,Lyon,3.5,4.0
+19,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13612-AVIS-SOC-GLASSDOOR-E845851_P1.html,Feu Vert,"Sep 23, 2019",Je cherche encore des avantages....,"RH inhumains, manager débordée et incapable de gérer son équipe correctement. A fuir",Ancien employé,Employé anonyme,Compiègne,2.8,1.0
+20,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13736-AVIS-SOC-GLASSDOOR-E410527_P1.html,Thales-Raytheon Systems,"May 28, 2019","Ambiance multi-culturelle, responsabilités, CE, rencontre clients","Ambiance générale, complexité du programme, évolution et proposition lié à l'aspect politique",Employé actuel,Ingénieur Apprenti,"Massy, Île-de-France",3.0,4.0
+21,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13649-AVIS-SOC-GLASSDOOR-E2548_P2.html,Manpower,"Oct 12, 2019",Flexibilité. Reconnaissance humaine. Avantages sociaux.,"A titre personnel, aucun inconvénients",Employé actuel,Employé anonyme,Troyes,4.3,4.0
+22,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13621-AVIS-SOC-GLASSDOOR-E1178969_P1.html,Morgan Philips Group,"Aug 18, 2018",Une vision stratégique claire et efficace,Une croissance très forte un peu rapide,Ancien employé,Employé anonyme,Strasbourg,3.9,4.0
+23,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13678-AVIS-SOC-GLASSDOOR-E379472_P2.html,Logware,"Jan 31, 2019","suivi commercial
+Salaire
+Organisation d’événement en dehors du travail","léger manque de formation
+rien d'autre",Employé actuel,Ingénieur de production,Paris,3.6,4.0
+24,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13584-AVIS-SOC-GLASSDOOR-E1044716_P1.html,Smile Group,"Nov 21, 2019","Ticket resto, ce, proximité manager","Régie difficile d'en sortir 
+Manque d'expertise au seins des equipes",Employé actuel,Employé anonyme,Casablanca,3.7,4.0
+25,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13725-AVIS-SOC-GLASSDOOR-E10842_P1.html,Plastic Omnium,"Dec 11, 2019",Entreprise internationale avec des opportunités dans toutes les régions,"Gestion à l’ancienne 
+L’équipe RH pas très présente en ce qui concerne l’accompagnement des salariés",Employé actuel,Employé anonyme,Lyon,3.5,3.0
+26,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13722-AVIS-SOC-GLASSDOOR-E1256638_P2.html,Group Adaming,"Mar 21, 2019","Ambiance conviviale, supérieur direct à l'écoute et qui vous pousse à vous dépasser.",Peu d'avantages et salaire en dessous du marché,Ancien employé,Développeur C#/.NET,Lille,3.1,4.0
+27,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13805-AVIS-SOC-GLASSDOOR-E846722_P1.html,OTV,"Aug 17, 2019",Grand groupe métier de l’ingenierie Intéressant Developpement durable,"Salaire pas très interessant,",Employé actuel,Employé anonyme,Paris,4.2,4.0
+28,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13576-AVIS-SOC-GLASSDOOR-E18712_P1.html,Modis,"Dec 13, 2019",Rien ne me vient à l'esprit,"-     Missions inintéressantes et qui ne correspondent pas du tout  à vos attentes
 -      Aspect Humain inexistant
 -      Aucune transparence  
 -	Aspect rentable 1000 fois plus important que l’aspect Humain
@@ -116,74 +51,191 @@ Compétences des équipes",Les rémunérations sont limitées (recherche univers
 -	A EVITER A TOUT PRIX pour les personnes qui débutent sur le marché du travail 
 -	Ils vous virent très rapidement si vous n’avez pas de mission 
 -	Management,...",Employé actuel,Employé anonyme,Lyon,3.2,1.0
-55,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13630-AVIS-SOC-GLASSDOOR-E456207_P1.html,Eidos Montreal,"Jan 23, 2019","Salaire compétitif, bons avantages sociaux, situé en plein centre ville de Montréal.
+29,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13761-AVIS-SOC-GLASSDOOR-E1366034_P1.html,Artefact,"Nov 4, 2019","- Ambitieux programme de formation, beaucoup d'autonomie favorisant la montée en compétences 
+- Cadre agréable et bonne ambiance 
+-  Missions responsabilisantes et variées",- Manque de stabilité due à la jeunesse de l'entreprise,Employé actuel,Employé anonyme,Paris,4.0,5.0
+30,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13604-AVIS-SOC-GLASSDOOR-E37990_P1.html,Volvo Cars,"May 15, 2019",Département de confiance avec évolution,Évolution de revenu pas adapté,Employé actuel,Employé anonyme,None,4.1,4.0
+31,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13628-AVIS-SOC-GLASSDOOR-E235643_P2.html,University of Montreal,"Mar 6, 2019","Bon salaire, bons avantages sociaux",difficulté d'avoir plus de contrats,Ancien employé,Chargé de cours,"Montréal, QC",3.9,4.0
+32,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13701-AVIS-SOC-GLASSDOOR-E1132974_P1.html,Les Echos,"Sep 25, 2019",Le cadre et évidemment les missions,"L'emplacement du site, mais c'est personnel.",Employé actuel,Employé anonyme,Paris,3.8,4.0
+33,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13629-AVIS-SOC-GLASSDOOR-E474142_P1.html,CRIM (Computer Research Institute of Montreal),"Nov 12, 2019","- Ambiance de travail collaborative et relaxe
+- Technologies de pointe et grande liberté côté choix technologiques
+- Projets parfois stimulants
+- Conditions de travail (5 semaines de vacances la première année, télétravail hebdomadaire, journées de maladie illimitées, 5% REER, etc.)","- Gestion des projet largement déficiente à tous les niveaux
+- Finalité des solutions développées discutables pour de nombreux projets subventionnés
+- Bonnes pratiques de développement déficientes, incapable de livrer des solutions logicielles robustes
+- Beaucoup de projets en parallèle rend le temps de travail peu productif
+- Projets clients souvent peu stimulants",Employé actuel,Agent De Recherche Sénior,"Montréal, QC",3.5,4.0
+34,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13577-AVIS-SOC-GLASSDOOR-E235143_P1.html,UK Ministry of Defence,"Oct 1, 2009",Possibilité de travailler sur de vastes projets d'importance stratégique dans le domaine de la haute technologie. De nombreuses possibilités d'évoluer avec des projets variés. Grande autonomie pour chaque employé.,"Mauvaise gestion des RH, carrière décidée par le diplôme initial. Difficulté à lancer de nouveaux projets. Lenteur administrative fréquente dans la vie quotidienne.",Anonymous,None,Paris,3.5,4.0
+35,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13645-AVIS-SOC-GLASSDOOR-E14590_P2.html,Sephora,"Sep 30, 2019",International Excellence Innovation Développement Responsabilités,Il n'y a pas d'inconvénients,Ancien employé,Employé anonyme,"Montréal, QC",3.6,5.0
+36,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13677-AVIS-SOC-GLASSDOOR-E1063459_P1.html,CALIDA Group,"Apr 4, 2018","Une ambiance sportive
+Des opportunitées & missions multiples",Difficultés de communication intermarques et interdépartements,Ancien stagiaire,Stagiaire Marketing,Annecy-le-Vieux,4.0,4.0
+37,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13546-AVIS-SOC-GLASSDOOR-E12966_P1.html,Devoteam,"Dec 12, 2019",Salaire acceptable pour un junior,"CE n’est pas intéressante, RAS",Ancien employé,Employé anonyme,Paris,4.1,3.0
+38,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13564-AVIS-SOC-GLASSDOOR-E4245_P2.html,Bayer,"May 15, 2019",CE / ticket restaurant /,Beaucoup de turnover / manque de stabilisation des procédés,Employé actuel,Ingénieur de production,Carcassonne,3.9,3.0
+39,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13809-AVIS-SOC-GLASSDOOR-E413452_P1.html,Transdev,"Nov 5, 2019","Un secteur d'activité passionnant. Une entreprise qui permet d'évoluer sur des métiers et des lieux géographiques très divers. Possibilité de télétravail en confiance. Sécurité de l'emploi. Rémunération : 13e mois, prime d'objectifs. Avantages : CE, cantine ou tickets restaurant, ordinateur portable et téléphone, carte fréquence SNCF si nécessaire.","Management instable, une stratégie relativement incohérente par conséquent. Un fossé qui se creuse de façon incessante entre les fonctions centrales et les activités opérationnelles. Trop peu de considération pour le métier.",Employé actuel,Employé anonyme,Issy,2.9,4.0
+40,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13803-AVIS-SOC-GLASSDOOR-E20114_P2.html,Veolia,"Oct 8, 2019",Grosse structure avec des moyens,Grosse structure avec des lenteurs decisionnelles,,None,Marseille,3.4,4.0
+41,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13716-AVIS-SOC-GLASSDOOR-E466295_P2.html,Sopra Steria,"Nov 23, 2019","Salaire correct
+Bonne ambiance d'équipe
+Confiance dans les développeurs","Selon les équipes, la pression peut être très forte.
+La répartition du travail peut être assez injuste, peu de reconnaissance du travail accompli, et peu de ""recadrage"" quand celui ci n'est pas fait",Ancien employé,Employé anonyme,Lille,3.4,3.0
+42,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13709-AVIS-SOC-GLASSDOOR-E1365869_P2.html,Groupe Crédit Agricole du Maroc,"Sep 25, 2018",On apprends énormément dans de très bonnes conditions.,Les stagiaires ne sont pas rémunérés.,Stagiaire actuel,Stagiaire anonyme,Rabat,3.3,4.0
+43,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13551-AVIS-SOC-GLASSDOOR-E794111_P1.html,Atos,"May 21, 2019",Les missions peuvent être des fois intéressantes .,Les ressources humaines et l'empathie sont inexistantes.,Employé actuel,Ingénieur Développement Logiciel,Bry,3.6,2.0
+44,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13668-AVIS-SOC-GLASSDOOR-E1127933_P2.html,cerema,"Jan 29, 2017","la diversité des profils 
+une opportunité pour apprendre et découvrir le métier de la recherche scientifique dans le but de résoudre des problèmes du quotidien","Manque d'organisation
+la restauration est trop chère pour un stagiaire",Ancien stagiaire,Stagiaire anonyme,None,3.9,3.0
+45,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13796-AVIS-SOC-GLASSDOOR-E3054_P1.html,Accor,"Dec 11, 2019",Groupe qui met à disposition beaucoup de moyen pour vous inclure. Beaucoup de postes très intéressant au même sein du groupe. Le siège à Issy Les Moulineaux est un super endroit pour travailler !,Avantages salariés pas assez intéressants,Ancien employé,Alternant,Issy,3.8,5.0
+46,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13655-AVIS-SOC-GLASSDOOR-E717393_P1.html,Canon ITS,"Mar 7, 2019","Égalité des sexes, environnement de travail convivial,",you should be self-discipline and curious to keep updated  cause no one asks you to keep learning,Ancien employé,Développeur,"Shanghai, Shanghai",3.2,4.0
+47,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13801-AVIS-SOC-GLASSDOOR-E736804_P2.html,La Redoute,"Jan 1, 2019","Une grande variété de jobs, des gens très pro.",Une boîte qui se cherche encore,Employé actuel,Employé anonyme,Roubaix,3.9,3.0
+48,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13630-AVIS-SOC-GLASSDOOR-E456207_P1.html,Eidos Montreal,"Jan 23, 2019","Salaire compétitif, bons avantages sociaux, situé en plein centre ville de Montréal.
 Fruits et cafés en accès libre","Peu d’activité d'entreprise d'organisé pour consolider les équipes.
 Des choix technologiques douteux et pas forcément optimales.
 Des projets au développement parfois très long (Thief  =7 ans développement, Deus Ex 1 & 2 = 5 ans de développement chacun) pour un succès par forcément au rendez vous.",Ancien employé,Level Designer,"Montréal, QC",3.6,3.0
-56,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13727-AVIS-SOC-GLASSDOOR-E1261010_P1.html,Mixt Composites Recyclables,"Mar 12, 2019","Ambiance, projets et la proximité avec la production",Le contexte qui s'est retrouvé perturbé,Ancien employé,Employé anonyme,None,4.0,4.0
-57,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13619-AVIS-SOC-GLASSDOOR-E800152_P1.html,SoLocal Group,"Dec 11, 2019","Missions intéressantes
+49,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13587-AVIS-SOC-GLASSDOOR-E1838_P2.html,Robert Half,"Jul 3, 2019","Société qui sait challenger ses collaborateurs,  donne toutes les clés pour faire monter en compétence les équipes, beaucoup d'évolutions et de promotions en interne ! Du dynamisme, des équipes soudées, de l'envie, et de nombreux outils mis en places en interne (tablettes, locaux...)",Manque de flexibilité sur les horaires,Employé actuel,Division Manager,Paris,3.6,5.0
+50,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13623-AVIS-SOC-GLASSDOOR-E1146056_P1.html,Montreal Associates,"Sep 19, 2019","Bonne volonté du management de donner plus de flexibilité
+Plan de commissions intéressant","Rien à signaler, bonne opportunité",Employé actuel,Consultant principal,"Londres, Angleterre",4.3,4.0
+51,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13552-AVIS-SOC-GLASSDOOR-E2131167_P1.html,Atos Consulting,"Jun 26, 2019","Mutuelle, salaire correct, avantages CE","Pas de suivi ni écoute du management, pas de changement de mission malgré plusieurs mois sur un projet peu intéressant et dans un contexte difficile",Employé actuel,Senior Consultant,Paris,2.8,2.0
+52,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13699-AVIS-SOC-GLASSDOOR-E3489_P1.html,LVMH,"Dec 9, 2019","Tickets restaurant 200€, locaux modernes.",Pas de salles de sport / douches accessibles aux alternants,Employé actuel,Chargé De Projets,Paris,3.7,5.0
+53,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13710-AVIS-SOC-GLASSDOOR-E476908_P1.html,CACIB,"Dec 11, 2019","Les rémunérations élevées, grace aussi aux chèques cadeaux récurrents et à toutes les offres du CE
+Des locaux agréables et spacieux","Aucun suivi RH: je l ai rencontré en entretien de recrutement, jamais vu pendant 5 ans à part le jour de mon départ.
+Des mobilités internes compliquées car aucun suivi RH",Ancien employé,Gestionnaire middle office banque,Paris,3.5,3.0
+54,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13612-AVIS-SOC-GLASSDOOR-E845851_P2.html,Feu Vert,"Oct 22, 2017",Le milieu automobile est intéressant et enrichissant,Les salaires ne sont pas élevés,,None,Lyon,2.8,2.0
+55,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13614-AVIS-SOC-GLASSDOOR-E230035_P2.html,SeLoger,"Aug 7, 2018","Equipes jeunes, Business intéressant, Amibition","Forte charge de travail, Stress lié au changements stratégiques, Des collègues peu engagés et mal formés",Employé actuel,Développeur back End,Paris,4.3,2.0
+56,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13648-AVIS-SOC-GLASSDOOR-E1137726_P1.html,Sparklane,"Dec 11, 2019",souplesse de travail ert salaire,"beaucoup d'heure au boulot! une équipe a paris et une a nantes, pas évident",Ancien employé,Sales,Paris,3.4,5.0
+57,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13691-AVIS-SOC-GLASSDOOR-E1130973_P1.html,Groupe Adéquat,"Nov 6, 2019","Ponctualité, sérieux, à l'écoute, souplesse., Régularité","Aucun, aucun, aucun, aucun, aucun",Ancien employé,Employé anonyme,Grenoble,3.9,4.0
+58,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13689-AVIS-SOC-GLASSDOOR-E2098670_P2.html,Adsearch,"Mar 9, 2019",Si vous trouvez les avantages je suis preneur !,De la vrai poudre aux yeux. Un turnover incroyable des équipes. On vous force la main pour répondre au questionnaire du great place to work ! On vous pousse pour que vous mettiez la meilleure note. Des managers inexistants qui ne sont pas à l’écoute ! Veut prôner des valeurs humaines mais inexistantes ! Aucune parole n’est tenue de la part de la direction ! Je vous livre cette avis pour pas que vous tombiez dans le...,Ancien employé,Consultant en recrutement,Paris,4.5,1.0
+59,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13619-AVIS-SOC-GLASSDOOR-E800152_P2.html,SoLocal Group,"Sep 9, 2019","Diversité des projets
+Work life balance
+Evenements
+Mobilité interne","Pyramidal
+Budgets gelés
+Innovation bridée
+Management archaique
+Salaires qui augmentent peu",Ancien employé,Employé anonyme,"Bordeaux, Aquitaine",2.9,4.0
+60,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13572-AVIS-SOC-GLASSDOOR-E2098670_P1.html,Adsearch,"Nov 5, 2019","Travail d'équipe, horaire appréciable, formateur","La Rémunération du à l'alternance,",Employé actuel,Chargée De Recrutement,Lyon,4.5,5.0
+61,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13615-AVIS-SOC-GLASSDOOR-E6538_P2.html,CNH Industrial,"May 26, 2017","Environnement de travail tres interessant. Les collègues sont sympathiques et toujours prèt à donner un coup de main. 
+Flexibilité sur le temps de travail. 
+Société multiculturelle","Documentations nécessaires pour certains projets très souvent manquant.
+Possibilités de croissance réduites
+Les formations internes sont rares ou bien souvent absentes
+Beaucoup de projets lancés en parallèle",Consultant .NET,None,Turin,3.5,4.0
+62,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13673-AVIS-SOC-GLASSDOOR-E1464013_P1.html,Paris Inn Group,"Nov 6, 2019","- Très bon environnement & collègues
+- Société en pleine croissance",- changement d'effectifs trop fréquent,Ancien stagiaire,Revenue Manager Assistant,Paris,2.2,5.0
+63,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13571-AVIS-SOC-GLASSDOOR-E1061225_P2.html,Expertime,"Jul 10, 2018","Très bonne ambiance, bonnes conditions de travail, convivialité, contexte international de travail",Situation géographique en banlieue bien desservie mais assez loin de Paris,Intérimaire actuel,Intérimaire anonyme,Viroflay,3.7,4.0
+64,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13546-AVIS-SOC-GLASSDOOR-E12966_P2.html,Devoteam,"Nov 20, 2019","Nombreux happenings
+Bonne ambiance générale
+Présence commerciale importante en clientèle
+Bonne mutuelle (Henner)","Les réorganisations ont fait que j'ai fini avec un bon manager très peu disponible car lui-même en mission en clientèle.
+L'équipe commerciale n'a aucun intérêt à sortir un collaborateur de mission même si ça doit passer par des extrêmes.
+Pas de formation malgré les promesses en entretien annuel.
+Incitation à rogner sur la vie personnelle par une rémunération variable incitative (nombre de jours de présence en clientèle supérieur à 210, participation à des actions à réaliser en dehors des horaires de travail ""conventionnelles""...)
+Devoteam a dénoncé son accord d'entreprise, aucun nouvel accord jusqu'à mon départ.",Ancien employé,Chef de projet maîtrise d'œuvre,Lyon,4.1,2.0
+65,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13699-AVIS-SOC-GLASSDOOR-E3489_P2.html,LVMH,"Jun 7, 2019",On acquière de l’expérience,Un groupe financier très exigeant,Employé actuel,Customer Service Manager,Bruxelles,3.7,3.0
+66,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13645-AVIS-SOC-GLASSDOOR-E14590_P1.html,Sephora,"Dec 3, 2019","Avantages sociaux, TR, variable",Toujours plus avec toujours moins,Employé actuel,Employé anonyme,Paris,3.6,5.0
+67,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13772-AVIS-SOC-GLASSDOOR-E3974_P1.html,SKF,"Oct 28, 2019",Le CE était assez bien fourni,Rigidité de la direction face aux demandes de changement,Ancien employé,Employé anonyme,Montigny,4.0,4.0
+68,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13598-AVIS-SOC-GLASSDOOR-E1363502_P1.html,Lacoste Traiteur,"Jun 15, 2017","Les salariés sont écoutés, les responsables sont ouverts aux propositions
+Repas fournis le midi 
+Evenements d'entreprise","Les salaires sont assez bas et inégaux sur un même poste 
+Manque de communication interne",Ancien employé,Employé anonyme,None,3.5,4.0
+69,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13660-AVIS-SOC-GLASSDOOR-E26056_P2.html,Groupe SII,"Sep 30, 2019","J'ai trouvé chez SII ce que je n'avais jamais constaté en SSII auparavant: des commerciaux présents, la possibilité de faire des missions différentes sans être catégorisé à un type d'activité ou un secteur, l'agence donne sa chance aux collab, bien être du collab non négligé..","Depuis 2 ans, le groupe grossit, les objectifs en terme de croissance explosent, la réorganisation a du mal à se mettre en place, SII tente de séduire les juniors avec des projets funky innovant et sous estime l'effort à fournir, on communique à plein tube sur la fun Collab Attitude, on met en place des nouveaux statuts et le travail, l'implication, la rigueur deviennent has been",Ancien employé,Employé anonyme,Paris,3.6,2.0
+70,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13725-AVIS-SOC-GLASSDOOR-E10842_P2.html,Plastic Omnium,"May 7, 2019","Bon mindset, locaux propres et modernes, effectif jeune et dynamique",Manque de visibilité sur l’avenir de la société,Employé actuel,Employé anonyme,Compiègne,3.5,3.0
+71,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13770-AVIS-SOC-GLASSDOOR-E1013306_P1.html,D2SI,"Apr 24, 2019","Belle entreprise, avec un esprit « village gaulois ». Les managers sont proches de l’équipe (Bières tout les Vendredi) et les seniors sont toujours à l'écoute des junior.  Bien plus qu’une boîte de consulting: c’est une boîte d’ingénieurs et de geeks. Montée en compétence technique garantie.",Il n’y a pas de cantine mais on s’en moque. On a les bières et les pizzas lors des formations en soirée!,Employé actuel,Consultant,Paris,4.0,5.0
+72,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13753-AVIS-SOC-GLASSDOOR-E13339_P2.html,Open,"Nov 8, 2019",Une entreprise responsable qui met le sens et les valeurs au premier plan. Une vision stratégique ambitieuse,En transformation et un exécution à affiner,Employé actuel,Employé anonyme,Levallois-Perret,3.5,5.0
+73,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13574-AVIS-SOC-GLASSDOOR-E1130973_P1.html,Groupe Adéquat,"Nov 6, 2019","Ponctualité, sérieux, à l'écoute, souplesse., Régularité","Aucun, aucun, aucun, aucun, aucun",Ancien employé,Employé anonyme,Grenoble,3.9,4.0
+74,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13710-AVIS-SOC-GLASSDOOR-E476908_P2.html,CACIB,"Jun 18, 2019",Bonne vision et capacité d'exécution,Rien d'important à signaler,Ancien employé,Responsable informatique de l'API,Paris,3.5,5.0
+75,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13767-AVIS-SOC-GLASSDOOR-E1387356_P1.html,Openfield Live,"Dec 11, 2019","Solutions innovantes, bien-être des collaborateurs au cœur de la stratégie, collaborateurs passionnés, écosystème très dynamique.","Innovation va de paire avec secteurs émergents, et budgets parfois en construction. Mais tout cela reste passionnant",Employé actuel,Directeur de projet,Malakoff,2.4,5.0
+76,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13679-AVIS-SOC-GLASSDOOR-E906809_P2.html,Fortuneo SA,"Jul 13, 2017","Société à taille humaine, organisation agile, circuits de décision courts. 
+Forts enjeux de croissance, entreprise bien gérée ; 
+CE et avantages sociaux avantageux",Certaines contraintes du secteur bancaire ralentissent parfois l'avancement des projets ; nécessité de s'adapter régulièrement sur un marché très challengé,Employé actuel,Marketing,Paris,3.5,4.0
+77,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13596-AVIS-SOC-GLASSDOOR-E111193_P2.html,Lacoste,"Mar 6, 2019","Marque, équipes jeunes et dynamiques","Manque de transparence, de culture du feedback",Employé actuel,Employé anonyme,"Montréal, QC",3.4,3.0
+78,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13653-AVIS-SOC-GLASSDOOR-E454220_P1.html,Loria,"Nov 13, 2019",Jai adoré l'esprit de recherche,l'inconvénient était que les plateformes n'était pas forcement accessible,Stagiaire actuel,Stagiaire anonyme,Nancy,4.1,4.0
+79,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13650-AVIS-SOC-GLASSDOOR-E809243_P1.html,ITS,"Sep 14, 2018",esprit de grupe et equipe rh,grille salaire predefini plus adapté au junior,Employé actuel,Consultatnt,Paris,3.4,4.0
+80,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13716-AVIS-SOC-GLASSDOOR-E466295_P1.html,Sopra Steria,"Dec 12, 2019","Bonne ambiance générale
+Ticket restaurant 
+Mutuelle",Management pas assez présent sur l'aspect opérationnel.,Ancien employé,Employé anonyme,Paris,3.4,4.0
+81,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13678-AVIS-SOC-GLASSDOOR-E379472_P1.html,Logware,"Dec 10, 2019","Aucun avantage, ne perdez pas votre temps.
+Que des mensonges","- Préjugé sur des simples dit
+- Aucune notion de management
+Fin de mission en période d'essais, on me demande de demander un congé sans soldes,  donc congé sans soldes IMPOSES et pendant ce dernier on me licencie pour motif : trop de personnes en intercontrat.
+
+RH incompétente.
+
+Un conseil fuyez et ne prenez jamais contact avec cette ""Entreprise"".",Employé actuel,Coordinateur IT,Paris,3.6,1.0
+82,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13633-AVIS-SOC-GLASSDOOR-E672181_P1.html,Softeam,"Sep 30, 2019",Taille humaine-proximité des managers,Avantages sociaux quasi inexistant,Employé actuel,Employé anonyme,Paris,3.4,3.0
+83,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13628-AVIS-SOC-GLASSDOOR-E235643_P1.html,University of Montreal,"Dec 4, 2019","Équipe très chaleureuse.
+Cuisine sur place.
+vieux locaux.","Équipement très vieux.
+Horaire rigide.
+Supervision d'usine",Employé actuel,Assistance technique,"Montréal, QC",3.9,1.0
+84,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13575-AVIS-SOC-GLASSDOOR-E1922609_P1.html,Multimedia France Productions,"Jan 5, 2018",Aucun vu qu'on  n'est pas payé.,On n'est pas payé si MFP n'est pas payé par ses propres clients. Sacré inconvénient et sacrément illégal ! Essaie de vous faire signer des contrats a posteriori modifiant les termes convenus à la commande.,Ancien freelance,Sous,Paris,1.0,1.0
+85,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13745-AVIS-SOC-GLASSDOOR-E3803_P2.html,Capgemini,"Dec 3, 2019","Missions chez de grands comptes , Projets chez le client au sein d'équipes capgemini , Possibilités d’évolution surtout en début de carrière .","Négociation salariale assez dure , augmentations assez modestes , distance relationnelle avec l'entreprise",Employé actuel,Front,Paris,3.6,3.0
+86,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13558-AVIS-SOC-GLASSDOOR-E6162_P2.html,Dassault Systemes,"May 19, 2019","Stabilité, avantages ce, nombre de congés, environnement très cool. Projets très innovants","Environnement de dev un peu oldschool,",Employé actuel,Ingénieur Logiciel,Vélizy,3.7,4.0
+87,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13737-AVIS-SOC-GLASSDOOR-E2947949_P1.html,L&T Thales Technology Services,"Sep 29, 2019","Bien accueilli
+Travail intéressant
+Bonne entente au sein de l'équipe",Rien à redire sur les conditions de travail,Ancien stagiaire,Stagiaire anonyme,None,3.5,5.0
+88,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13790-AVIS-SOC-GLASSDOOR-E9028_P2.html,Gfi Informatique,"Nov 16, 2019",Les missions sont plutôt intéressantes,La rémunération est vraiment trop basse et les augmentations sont dérisoires.,Employé actuel,UX Designer,Niort,3.4,3.0
+89,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13753-AVIS-SOC-GLASSDOOR-E13339_P1.html,Open,"Dec 12, 2019","À l'écoute des collaborateurs. 
+Tickets restaurant.",Rémunération un peu en dessous de la moyenne.,Employé actuel,Ingénieur D'études,Lille,3.5,5.0
+90,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13619-AVIS-SOC-GLASSDOOR-E800152_P1.html,SoLocal Group,"Dec 11, 2019","Missions intéressantes
 Locaux agréables et modernes","Mauvaise santé financière de l'entreprise, multiples plans sociaux
 Avenir bancal de la société
 Entreprise qui dit se transformer mais dans les faits ce n'est pas tout à fait le cas.",Employé actuel,Responsable Marketing,Boulogne-Billancourt,2.9,2.0
-58,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13574-AVIS-SOC-GLASSDOOR-E1130973_P1.html,Groupe Adéquat,"Nov 6, 2019","Ponctualité, sérieux, à l'écoute, souplesse., Régularité","Aucun, aucun, aucun, aucun, aucun",Ancien employé,Employé anonyme,Grenoble,3.9,4.0
-59,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13736-AVIS-SOC-GLASSDOOR-E410527_P1.html,Thales-Raytheon Systems,"May 28, 2019","Ambiance multi-culturelle, responsabilités, CE, rencontre clients","Ambiance générale, complexité du programme, évolution et proposition lié à l'aspect politique",Employé actuel,Ingénieur Apprenti,"Massy, Île-de-France",3.0,4.0
-60,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13628-AVIS-SOC-GLASSDOOR-E235643_P2.html,University of Montreal,"Mar 6, 2019","Bon salaire, bons avantages sociaux",difficulté d'avoir plus de contrats,Ancien employé,Chargé de cours,"Montréal, QC",3.9,4.0
-61,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13624-AVIS-SOC-GLASSDOOR-E397805_P2.html,STM,"May 27, 2018",avantage sociaux tres intéressant et bon salair,trop de stresse et des client qui te respecteent pas,Employé actuel,Chauffeur,"Montréal, QC",3.7,3.0
-62,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13576-AVIS-SOC-GLASSDOOR-E18712_P2.html,Modis,"Aug 2, 2019","Évolution, environnement de travail, soutien du manager",Suivi des employés débutants,Employé actuel,Ingénieur Commercial,Paris,3.2,4.0
-63,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13760-AVIS-SOC-GLASSDOOR-E1194086_P1.html,Open Sourcing,"Jul 12, 2019",Travail en autonomie pour les stagiaires,Aucun inconvénient à évoquer,Ancien stagiaire,Stagiaire anonyme,Levallois-Perret,3.0,3.0
-64,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13717-AVIS-SOC-GLASSDOOR-E1187250_P1.html,Sopra Steria Recruitment,"Oct 16, 2017","Ambiance conviviale
-Avantages Mutuelle, CE
-Possibilité d'évolution interne","Salaire
-Non augmentation
-Discrimination au niveau de l'âge",Employé actuel,Employé anonyme,None,4.0,4.0
-65,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13623-AVIS-SOC-GLASSDOOR-E1146056_P1.html,Montreal Associates,"Sep 19, 2019","Bonne volonté du management de donner plus de flexibilité
-Plan de commissions intéressant","Rien à signaler, bonne opportunité",Employé actuel,Consultant principal,"Londres, Angleterre",4.3,4.0
-66,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13741-AVIS-SOC-GLASSDOOR-E1132227_P2.html,JEMS Group,"Jan 17, 2019",Le service des ressources humaines est sympathique et fait bien son travail. Les RH sont les seuls qui se soucient vraiment des consultants et pas juste de la rentabilité.,"Le mensonge est omniprésent chez les managers et les commerciaux et ce dès le début du processus de recrutement. 
-Les commerciaux demandent aux consultants de s'inventer des missions ou des expériences pour coller aux attentes des clients. Ils font attendre un temps certain les consultants avant de leur proposer des missions pour qu'ils se sentent obliger d'accepter une offre qui ne correspond pas à leur plan de...",Employé actuel,Junior Consultant,Neuilly,4.3,1.0
-67,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13761-AVIS-SOC-GLASSDOOR-E1366034_P2.html,Artefact,"Feb 5, 2019","Cadre, Ambiance,  salaire, Evolution",Rien à dire. Pas d'inconvénients ...,Ancien employé,Employé anonyme,Paris,4.0,4.0
-68,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13641-AVIS-SOC-GLASSDOOR-E28187_P1.html,Altran North America,"Feb 22, 2019","Bon équilibre travail/vie privée 
-Aucun processus","Manque de transparence envers les employés
-La rémunération variable va à 100 % aux tout meilleurs employés.",Employé actuel,Anonymous,Paris,3.6,1.0
-69,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13753-AVIS-SOC-GLASSDOOR-E13339_P2.html,Open,"Nov 8, 2019",Une entreprise responsable qui met le sens et les valeurs au premier plan. Une vision stratégique ambitieuse,En transformation et un exécution à affiner,Employé actuel,Employé anonyme,Levallois-Perret,3.5,5.0
-70,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13714-AVIS-SOC-GLASSDOOR-E10777_P1.html,Lectra,"Dec 10, 2019","Profils variés et intéressants
-Environnement très international","Peu de respect pour les collaborateurs
-Management autoritaire
-Structure très hiérarchisée",Ancien employé,Employé anonyme,Cestas,3.5,1.0
-71,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13699-AVIS-SOC-GLASSDOOR-E3489_P1.html,LVMH,"Dec 9, 2019","Tickets restaurant 200€, locaux modernes.",Pas de salles de sport / douches accessibles aux alternants,Employé actuel,Chargé De Projets,Paris,3.7,5.0
-72,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13802-AVIS-SOC-GLASSDOOR-E3127620_P1.html,LA REDOUTE,"Dec 9, 2019",Aucun avantage dans cette société,Management par la terreur en permanence,Employé actuel,Employé anonyme,None,0.0,1.0
-73,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13796-AVIS-SOC-GLASSDOOR-E3054_P2.html,Accor,"Sep 3, 2019",Trajet Mutuelle RTT voiture de fonction,Management Horaires difficiles pas de reconnaissance,Employé actuel,Sales Manager,Paris,3.8,3.0
-74,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13734-AVIS-SOC-GLASSDOOR-E10358_P2.html,Thales,"Oct 29, 2019",Projets très intéressants. Management soucieux des collaborateurs.,Beaucoup de bureaucratie et process,Employé actuel,Employé anonyme,Vélizy,4.1,5.0
-75,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13634-AVIS-SOC-GLASSDOOR-E7633_P1.html,NVIDIA,"Mar 28, 2019",Un secteur d'activité high-tech qui évolue rapidement,"De nombreux projets trop mis en avant, qui n'aboutissent pas",Employé actuel,Anonymous,Courbevoie,4.5,5.0
-76,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13563-AVIS-SOC-GLASSDOOR-E13082_P1.html,CEGID,"Dec 4, 2019","Bonne ambiance, rémunération attractive entre 100 et 140k€ selon les années, remboursement de tous les frais si RDV client (IK, repas, TR, Transport, déplacements...), base installée de clients avec panels d’offres énorme (Retail, Tax, HCM, ERP, Cabinets d’EC), très bonne notoriété...","Rigidité de l’organisation, des financiers tout là haut, trop de rationalisation,  surchauffe...",Employé actuel,Senior Account Manager,Paris,2.7,5.0
-77,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13615-AVIS-SOC-GLASSDOOR-E6538_P1.html,CNH Industrial,"Aug 4, 2019","Intéressement
+91,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13634-AVIS-SOC-GLASSDOOR-E7633_P1.html,NVIDIA,"Mar 28, 2019",Un secteur d'activité high-tech qui évolue rapidement,"De nombreux projets trop mis en avant, qui n'aboutissent pas",Employé actuel,Anonymous,Courbevoie,4.5,5.0
+92,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13652-AVIS-SOC-GLASSDOOR-E788645_P2.html,ITS Group,"Feb 2, 2019",Il n'y a aucun avantage dans cette société,"Je suis indépendant, j'ai travaillé presque 9 mois pour ITS. Pas un seul mois j'ai reçu mon salaire en temps et en heure. 
+Je ne reçois aucun mail d'excuses... Super conseil de ma responsable ""un indépendant doit avoir de la trésorie"". Quel manque de respect. 
+C'est vraiment honteux comme retour. Vous mettez des gens en difficultés. Vousne vous rendez pas compte dans les situations dans lesquels vous pouvez nous...",Ancien employé,Employé anonyme,Lyon,3.5,1.0
+93,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13660-AVIS-SOC-GLASSDOOR-E26056_P1.html,Groupe SII,"Nov 22, 2019",Activités et avantages proposées par le CE,Salaire qui évolue assez peu,Employé actuel,Employé anonyme,Lyon,3.6,3.0
+94,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13746-AVIS-SOC-GLASSDOOR-E589990_P1.html,Capgemini Invent,"Dec 12, 2019","- Ambiance 
+- Diversité des missions 
+- Pas de sectorisation pour les juniors 
+- Bonnes formations 
+- Moments de convivialité","Selon les secteurs, beaucoup de déplacement mais cela fait partie du métier",Employé actuel,Employé anonyme,Issy,4.0,5.0
+95,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13796-AVIS-SOC-GLASSDOOR-E3054_P2.html,Accor,"Sep 3, 2019",Trajet Mutuelle RTT voiture de fonction,Management Horaires difficiles pas de reconnaissance,Employé actuel,Sales Manager,Paris,3.8,3.0
+96,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13702-AVIS-SOC-GLASSDOOR-E1159854_P1.html,Kendo,"Nov 4, 2019","Entreprise très dynamique
+Expérience enrichissante
+Appartient au groupe LVMH","Manque de structure 
+Stress dans les équipes",Employé actuel,Assistant marketing [alternance],Casablanca,2.8,4.0
+97,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13733-AVIS-SOC-GLASSDOOR-E852040_P1.html,Yongzhi Plastic Electronics (Shenzhen) Co.,"Jan 26, 2017",mobilité du job surtout le soir,trop de travail et partage de données,,None,None,3.0,3.0
+98,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13708-AVIS-SOC-GLASSDOOR-E4252_P2.html,Groupe Crédit Agricole,"Nov 7, 2019",Un cadre (lieu)de travail très agréable,une lourdeur organisationnelle et beaucoup trop de strats managériales,Employé actuel,Employé anonyme,Villenave,3.8,3.0
+99,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13722-AVIS-SOC-GLASSDOOR-E1256638_P1.html,Group Adaming,"Dec 6, 2019",Adaming vous laisse votre chance à partir du moment où vous avez un bac+5 et que vous êtes un minimum sérieux pendant la formation de 3 mois (qui est complète et bien amenée).,Le salaire est forcément en dessous du marché les 6 premiers mois d'emplois pour rentabiliser la formation et pendant la formation vous ne touchez que le chômage si vous y avez droit. Et vous n'avez pas vocation à évoluer au sein de l'entreprise et à y rester longtemps,Employé actuel,Junior SAP Consultant,Toulouse,3.1,4.0
+100,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13615-AVIS-SOC-GLASSDOOR-E6538_P1.html,CNH Industrial,"Aug 4, 2019","Intéressement
 Mutuelle 
 CE
 Valorisation des compétences","Pas d'évolution intra groupe
 Du stress",Ancien employé,Ingénieur méthodes et logistique,"Croix, Nord-Pas-de-Calais",3.5,4.0
-78,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13722-AVIS-SOC-GLASSDOOR-E1256638_P2.html,Group Adaming,"Mar 21, 2019","Ambiance conviviale, supérieur direct à l'écoute et qui vous pousse à vous dépasser.",Peu d'avantages et salaire en dessous du marché,Ancien employé,Développeur C#/.NET,Lille,3.1,4.0
-79,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13771-AVIS-SOC-GLASSDOOR-E1125581_P1.html,Adthink-Media,"Dec 6, 2019","Je suis chez Adthink depuis plusieurs années. Les projets sont nombreux, innovants et l'ambiance jeune et dynamique est un avantage. L'organisation entre Tassin et Porto donne un côté sympa à l'environnement de travail. Il y a d'excellentes compétences techniques et métiers autour du digital dans cette entreprise et l'autonomie que l'on nous donne sur les projets m'a permis de rapidement progresser.",Contexte diffcile dans des métiers souvent régulés par Google ou Facebook.,Employé actuel,Employé anonyme,Tassin,2.8,5.0
-80,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13732-AVIS-SOC-GLASSDOOR-E158808_P2.html,Keyrus Group,"Oct 28, 2019","Belle culture RH; l'entreprise est conciliante travail-famille, elle a à coeur ses employés, bonne esprit d'équipe, communication,  belle énergie .",Gestion de projet et planification stratégique  qui peut être amélioré,Employé actuel,Employé anonyme,"Montréal, QC",4.0,5.0
-81,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13702-AVIS-SOC-GLASSDOOR-E1159854_P1.html,Kendo,"Nov 4, 2019","Entreprise très dynamique
-Expérience enrichissante
-Appartient au groupe LVMH","Manque de structure 
-Stress dans les équipes",Employé actuel,Assistant marketing [alternance],Casablanca,2.8,4.0
-82,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13712-AVIS-SOC-GLASSDOOR-E3041003_P1.html,Crédit Agricole d'Aquitaine,"Oct 22, 2019",Beaucoup de congés et très bon parcours de formation avec de grandes écoles.,Le salaire trop bas. Trop traditionnelle.,Ancien employé,Employé anonyme,None,3.4,3.0
-83,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13767-AVIS-SOC-GLASSDOOR-E1387356_P1.html,Openfield Live,"Dec 11, 2019","Solutions innovantes, bien-être des collaborateurs au cœur de la stratégie, collaborateurs passionnés, écosystème très dynamique.","Innovation va de paire avec secteurs émergents, et budgets parfois en construction. Mais tout cela reste passionnant",Employé actuel,Directeur de projet,Malakoff,2.4,5.0
-84,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13795-AVIS-SOC-GLASSDOOR-E231247_P1.html,ACCEO Solutions,"Nov 22, 2019",Belle collaboration avec l'équipe de gestion,Changements fréquents en raison de regroupements,Ancien employé,Employé anonyme,"Sherbrooke, QC",3.3,4.0
-85,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13618-AVIS-SOC-GLASSDOOR-E1136406_P1.html,SOTRAVO Filiale SOLOCAL GROUP,"Sep 16, 2019",Objectifs commerciaux difficiles à atteindre,Horaires turn over objectifs difficiles,Ancien employé,Commerciale,Montigny,3.0,3.0
-86,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13653-AVIS-SOC-GLASSDOOR-E454220_P1.html,Loria,"Nov 13, 2019",Jai adoré l'esprit de recherche,l'inconvénient était que les plateformes n'était pas forcement accessible,Stagiaire actuel,Stagiaire anonyme,Nancy,4.1,4.0
-87,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13787-AVIS-SOC-GLASSDOOR-E35333_P1.html,GFI Group,"Jun 24, 2017",personnel ouvert intéressant et jeune,trop petite société pas assez de monde,Senior,None,"Londres, Angleterre",3.2,3.0
-88,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13772-AVIS-SOC-GLASSDOOR-E3974_P1.html,SKF,"Oct 28, 2019",Le CE était assez bien fourni,Rigidité de la direction face aux demandes de changement,Ancien employé,Employé anonyme,Montigny,4.0,4.0
-89,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13689-AVIS-SOC-GLASSDOOR-E2098670_P2.html,Adsearch,"Mar 9, 2019",Si vous trouvez les avantages je suis preneur !,De la vrai poudre aux yeux. Un turnover incroyable des équipes. On vous force la main pour répondre au questionnaire du great place to work ! On vous pousse pour que vous mettiez la meilleure note. Des managers inexistants qui ne sont pas à l’écoute ! Veut prôner des valeurs humaines mais inexistantes ! Aucune parole n’est tenue de la part de la direction ! Je vous livre cette avis pour pas que vous tombiez dans le...,Ancien employé,Consultant en recrutement,Paris,4.5,1.0
-90,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13614-AVIS-SOC-GLASSDOOR-E230035_P1.html,SeLoger,"Oct 10, 2019","Super locaux, Tickets restaurants, Très bonne mutuelle, 18 rtt","Quartier, Management, ils sortent des offres mais le technique ne suit pas.",Ancien employé,Account Manager,Paris,4.3,3.0
-91,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13564-AVIS-SOC-GLASSDOOR-E4245_P2.html,Bayer,"May 15, 2019",CE / ticket restaurant /,Beaucoup de turnover / manque de stabilisation des procédés,Employé actuel,Ingénieur de production,Carcassonne,3.9,3.0
-92,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13806-AVIS-SOC-GLASSDOOR-E2701639_P1.html,Veolia Water Tech,"Nov 19, 2019","CP 25 jours + 14 jours de RTT +  quelque jours de pont donnés
-Remboursement des dépenses de sortir (sportif et culturelle)
-Chaque de vacances + Chaque de culturelle
-Cantine",Salaire un peu plus base par rapport le marché,Ancien employé,Employé anonyme,Paris,3.7,3.0
-93,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13706-AVIS-SOC-GLASSDOOR-E19928_P1.html,Merial,"Aug 26, 2019",tout est bien avec l'entreprise,pas d'inconvenients dans l'entreprise Merial,Employé actuel,Employé anonyme,Lyon,4.0,5.0
-94,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13596-AVIS-SOC-GLASSDOOR-E111193_P1.html,Lacoste,"Oct 18, 2019",Très pédagogique car vous avez des formations,En inconvénients je dirais le Salaire,Ancien employé,Vendeuse,Cannes,3.4,4.0
-95,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13586-AVIS-SOC-GLASSDOOR-E649071_P1.html,Groupe Creative,"Dec 6, 2019","A Mérignac :
+101,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13800-AVIS-SOC-GLASSDOOR-E1443740_P1.html,ibis,"Nov 26, 2019",dirigeants et managers très patients et respectueux,améliorations à faire sur la procédure d'encaissement,Ancien employé,Employé anonyme,Lyon,3.9,4.0
+102,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13689-AVIS-SOC-GLASSDOOR-E2098670_P1.html,Adsearch,"Nov 5, 2019","Travail d'équipe, horaire appréciable, formateur","La Rémunération du à l'alternance,",Employé actuel,Chargée De Recrutement,Lyon,4.5,5.0
+103,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13704-AVIS-SOC-GLASSDOOR-E9347_P1.html,Sanofi,"Dec 12, 2019","De belle possibilités, des gens passionés, un cadre de travail agréable, des avantages à de nombreux niveaux","De nombreux sites en France, donc pas mal de travail d'équipe à distance.",Employé actuel,Employé anonyme,Gentilly,3.6,5.0
+104,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13633-AVIS-SOC-GLASSDOOR-E672181_P2.html,Softeam,"Mar 29, 2019","Positionnement très intéressant sur le marché bancaire avec beaucoup de missions proposées.
+Soirée et Déjeuner organisés régulièrement","Aucun partage de la vision stratégique
+Difficulté pour évoluer professionnellement
+Les commerciaux sont trop portés sur leur variable au détriment des consultants
+Trop d'interaction avec trop de personnes (on ne sait jamais à qui s'adresser)",Ancien employé,Employé anonyme,Paris,3.4,3.0
+105,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13732-AVIS-SOC-GLASSDOOR-E158808_P2.html,Keyrus Group,"Oct 28, 2019","Belle culture RH; l'entreprise est conciliante travail-famille, elle a à coeur ses employés, bonne esprit d'équipe, communication,  belle énergie .",Gestion de projet et planification stratégique  qui peut être amélioré,Employé actuel,Employé anonyme,"Montréal, QC",4.0,5.0
+106,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13727-AVIS-SOC-GLASSDOOR-E1261010_P1.html,Mixt Composites Recyclables,"Mar 12, 2019","Ambiance, projets et la proximité avec la production",Le contexte qui s'est retrouvé perturbé,Ancien employé,Employé anonyme,None,4.0,4.0
+107,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13802-AVIS-SOC-GLASSDOOR-E3127620_P1.html,LA REDOUTE,"Dec 9, 2019",Aucun avantage dans cette société,Management par la terreur en permanence,Employé actuel,Employé anonyme,None,0.0,1.0
+108,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13780-AVIS-SOC-GLASSDOOR-E35333_P1.html,GFI Group,"Jun 24, 2017",personnel ouvert intéressant et jeune,trop petite société pas assez de monde,Senior,None,"Londres, Angleterre",3.2,3.0
+109,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13783-AVIS-SOC-GLASSDOOR-E231247_P1.html,ACCEO Solutions,"Nov 22, 2019",Belle collaboration avec l'équipe de gestion,Changements fréquents en raison de regroupements,Ancien employé,Employé anonyme,"Sherbrooke, QC",3.3,4.0
+110,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13641-AVIS-SOC-GLASSDOOR-E28187_P1.html,Altran North America,"Feb 22, 2019","Bon équilibre travail/vie privée 
+Aucun processus","Manque de transparence envers les employés
+La rémunération variable va à 100 % aux tout meilleurs employés.",Employé actuel,Anonymous,Paris,3.6,1.0
+111,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13570-AVIS-SOC-GLASSDOOR-E1394648_P1.html,Abaka,"Apr 18, 2019","Une bonne ambiance et des collègues de bon niveau, à l’écoute.",Trop loin du centre ville de Rennes mais ils ont déménagé depuis mon départ,Ancien employé,Chargé De Recherche,Bruz,4.8,5.0
+112,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13704-AVIS-SOC-GLASSDOOR-E9347_P2.html,Sanofi,"Nov 11, 2019",Qualité de vie - équilibre vie privée vie professionnelle,Manque de vison / stratégie à long terme,Employé actuel,Business Analyst,Gentilly,3.6,4.0
+113,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13771-AVIS-SOC-GLASSDOOR-E1125581_P1.html,Adthink-Media,"Dec 6, 2019","Je suis chez Adthink depuis plusieurs années. Les projets sont nombreux, innovants et l'ambiance jeune et dynamique est un avantage. L'organisation entre Tassin et Porto donne un côté sympa à l'environnement de travail. Il y a d'excellentes compétences techniques et métiers autour du digital dans cette entreprise et l'autonomie que l'on nous donne sur les projets m'a permis de rapidement progresser.",Contexte diffcile dans des métiers souvent régulés par Google ou Facebook.,Employé actuel,Employé anonyme,Tassin,2.8,5.0
+114,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13692-AVIS-SOC-GLASSDOOR-E929611_P2.html,Teads,"Aug 24, 2018","- Ce qu'on fait tous les jours apporte une vrai valeur
+- Bonne ambiance détendu : fat boy, canapé, console, baby foot, céréales, fruits, boissons, bar, ...
+- Organisation en feature team, on a l'impression d'être un peu une start up dans une grosse boite
+- Projets intéressants côté business
+- Beaucoup de travail, on s'ennuie jamais
+- Pas mal de techno utilisées (java, scala, node, go, react, terraform, aws, .....","- Pas mal de code/projets legacy, mais tout le monde en a conscience et travaille pour améliorer",Employé actuel,Software Engineer,Montpellier,3.6,4.0
+115,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13596-AVIS-SOC-GLASSDOOR-E111193_P1.html,Lacoste,"Oct 18, 2019",Très pédagogique car vous avez des formations,En inconvénients je dirais le Salaire,Ancien employé,Vendeuse,Cannes,3.4,4.0
+116,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13627-AVIS-SOC-GLASSDOOR-E253618_P1.html,Concordia University,"Apr 30, 2019","multicultural, agreeable, interesting, dynamic","theory, CDD, na, na",Employé actuel,Chercheur postdoctoral,"Montréal, QC",4.0,4.0
+117,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13692-AVIS-SOC-GLASSDOOR-E929611_P1.html,Teads,"Oct 29, 2019",Esprit start up / société dynamique et innovante / Autonomie ++,Espace restreint dans les locaux parisiens,Employé actuel,Employé anonyme,Paris,3.6,5.0
+118,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13777-AVIS-SOC-GLASSDOOR-E116383_P2.html,GFI,"Apr 22, 2015","Comité d'entreprise, tickets restaurant, choix des missions",Pas de connaissance du marché,Employé actuel,consultant moa banque finance,Neuilly,2.9,3.0
+119,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13760-AVIS-SOC-GLASSDOOR-E1194086_P1.html,Open Sourcing,"Jul 12, 2019",Travail en autonomie pour les stagiaires,Aucun inconvénient à évoquer,Ancien stagiaire,Stagiaire anonyme,Levallois-Perret,3.0,3.0
+120,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13572-AVIS-SOC-GLASSDOOR-E2098670_P2.html,Adsearch,"Mar 9, 2019",Si vous trouvez les avantages je suis preneur !,De la vrai poudre aux yeux. Un turnover incroyable des équipes. On vous force la main pour répondre au questionnaire du great place to work ! On vous pousse pour que vous mettiez la meilleure note. Des managers inexistants qui ne sont pas à l’écoute ! Veut prôner des valeurs humaines mais inexistantes ! Aucune parole n’est tenue de la part de la direction ! Je vous livre cette avis pour pas que vous tombiez dans le...,Ancien employé,Consultant en recrutement,Paris,4.5,1.0
+121,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13724-AVIS-SOC-GLASSDOOR-E1126011_P1.html,alptis assurances,"Jul 8, 2019","Ambiance, entraide, participation projets interentreprise","Outils de gestion, moyens informatique, manque de communication",Employé actuel,Employé anonyme,Lyon,3.4,3.0
+122,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13576-AVIS-SOC-GLASSDOOR-E18712_P2.html,Modis,"Aug 2, 2019","Évolution, environnement de travail, soutien du manager",Suivi des employés débutants,Employé actuel,Ingénieur Commercial,Paris,3.2,4.0
+123,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13758-AVIS-SOC-GLASSDOOR-E5694_P2.html,OpenText,"Mar 19, 2018",Salle de jeux et bons collègues.,Bureau régional et non primaire.,Ancien employé,Employé anonyme,Paris,3.2,4.0
+124,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13586-AVIS-SOC-GLASSDOOR-E649071_P1.html,Groupe Creative,"Dec 6, 2019","A Mérignac :
 Proximité manager
 Ecoute
 Salaire correct
@@ -195,197 +247,173 @@ TR 7€
 Stricte Minimum de RTT
 Pas d'intéressement
 Peu de formation",Ancien employé,Ingénieur Développement Logiciel,"Mérignac, Aquitaine",3.6,4.0
-96,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13558-AVIS-SOC-GLASSDOOR-E6162_P1.html,Dassault Systemes,"Dec 4, 2019","- Collègues tres smart 
-- Formation permanente 
-- Process efficaces 
-- Fléxibilité 
-- Rémuneration et avantages très attractifs",Il n'y a pas d'inconvenients,Ancien employé,Finance,Vélizy,3.7,5.0
-97,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13550-AVIS-SOC-GLASSDOOR-E10686_P2.html,Atos,"Nov 18, 2019",Mission Ambiance Hiérarchie Direction Implication,Rien A Signaler Pour Instant,Employé actuel,IT Business Analyst,Toulouse,3.3,5.0
-98,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13807-AVIS-SOC-GLASSDOOR-E1260894_P1.html,Groupe NICOLLIN - Groupe VEOLIA,"Dec 16, 2017","Travail dans le secteur bancaire
-Bien payé",Horaires et contexte très exigeants,Employé actuel,Employé anonyme,None,3.0,3.0
-99,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13626-AVIS-SOC-GLASSDOOR-E3765_P2.html,BMO Financial Group,"Aug 30, 2018","Ambiance, rabais sur les produits",Mauvaise gestion et peut de possibilité d'avancement,preteur,None,"Montréal, QC",3.7,3.0
-100,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13728-AVIS-SOC-GLASSDOOR-E200717_P2.html,Astek,"Sep 16, 2019","Plusieurs clients, une bonne équipe de commerciaux","pas bcp d'avantage, pass bcp de RTT",Employé actuel,Ingénieur Informatique,Paris,2.9,3.0
-101,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13668-AVIS-SOC-GLASSDOOR-E1127933_P1.html,cerema,"Sep 4, 2019","Ambiance, variété missions, cohésion équipe",aucun aucun aucun aucun aucun,Ancien intérimaire,Intérimaire anonyme,"Bron, Rhône-Alpes",3.9,4.0
-102,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13660-AVIS-SOC-GLASSDOOR-E26056_P2.html,Groupe SII,"Sep 30, 2019","J'ai trouvé chez SII ce que je n'avais jamais constaté en SSII auparavant: des commerciaux présents, la possibilité de faire des missions différentes sans être catégorisé à un type d'activité ou un secteur, l'agence donne sa chance aux collab, bien être du collab non négligé..","Depuis 2 ans, le groupe grossit, les objectifs en terme de croissance explosent, la réorganisation a du mal à se mettre en place, SII tente de séduire les juniors avec des projets funky innovant et sous estime l'effort à fournir, on communique à plein tube sur la fun Collab Attitude, on met en place des nouveaux statuts et le travail, l'implication, la rigueur deviennent has been",Ancien employé,Employé anonyme,Paris,3.6,2.0
-103,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13585-AVIS-SOC-GLASSDOOR-E13058_P1.html,Cegedim,"Dec 4, 2019","taille de l'entreprise, CE, intéressement et participation",un peu en mode startup,Employé actuel,Ingénieur Technico,Toulouse,3.3,4.0
-104,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13722-AVIS-SOC-GLASSDOOR-E1256638_P1.html,Group Adaming,"Dec 6, 2019",Adaming vous laisse votre chance à partir du moment où vous avez un bac+5 et que vous êtes un minimum sérieux pendant la formation de 3 mois (qui est complète et bien amenée).,Le salaire est forcément en dessous du marché les 6 premiers mois d'emplois pour rentabiliser la formation et pendant la formation vous ne touchez que le chômage si vous y avez droit. Et vous n'avez pas vocation à évoluer au sein de l'entreprise et à y rester longtemps,Employé actuel,Junior SAP Consultant,Toulouse,3.1,4.0
-105,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13718-AVIS-SOC-GLASSDOOR-E1881876_P1.html,CITECH,"Nov 12, 2019",Une entreprise où il fait bon vivre / De belles primes,Ne me prononce pas,Employé actuel,Ingénieur D'Affaires,Paris,4.6,5.0
-106,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13755-AVIS-SOC-GLASSDOOR-E1762947_P1.html,Open Minds Open Hearts Day Care,"Dec 1, 2017",Carte Tickets Restaurant + Mutuelle,Aucune considération du salarié dans l'ensemble de la hiérarchie.,Employé actuel,Ingénieur Consultant,"Tours, Centre",2.0,1.0
-107,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13700-AVIS-SOC-GLASSDOOR-E1127781_P2.html,CELINE,"Feb 20, 2018","Tres bonne ambiance et esprit d'equpe,  des collègues très compétents et passionnés.  Le cadre de travail est agréable,  le travail de chaque collaborateur est valorisé et apprecié.  C’était une super expérience.","Comme c'est le cas souvent dans les maisons de mode, l'ambiance et le rythme de travail peuvent évoluer selon les changements au niveau de la direction artistique.  Cela n’était pas le cas pendant mon temps au sein de la maison.",Ancien employé,Employé anonyme,Paris,3.0,5.0
-108,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13734-AVIS-SOC-GLASSDOOR-E10358_P1.html,Thales,"Dec 13, 2019","CE , restaurant d'entreprise ( une usine )","On se croirais dans une maison de retraite. Climat austère. Process indigeste. Aucune multiculturalité. Si l'on vient d'une entreprise externe avec  plus de 10 ans d'expérience , passer votre chemin , l'adaptation  est quasi insurmontable. Client unique ( l'armée française)… J'y suis resté 2 ans en tant que salarié , aucun accompagnement , je n'ai jamais réellement compris les attentes du poste. Pour c'est une entreprise à fuir du moins le service dans lequel je suis tombé. Entreprise à vomir",Employé actuel,Project Manager,Gennevilliers,4.1,1.0
-109,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13546-AVIS-SOC-GLASSDOOR-E12966_P2.html,Devoteam,"Nov 20, 2019","Nombreux happenings
-Bonne ambiance générale
-Présence commerciale importante en clientèle
-Bonne mutuelle (Henner)","Les réorganisations ont fait que j'ai fini avec un bon manager très peu disponible car lui-même en mission en clientèle.
-L'équipe commerciale n'a aucun intérêt à sortir un collaborateur de mission même si ça doit passer par des extrêmes.
-Pas de formation malgré les promesses en entretien annuel.
-Incitation à rogner sur la vie personnelle par une rémunération variable incitative (nombre de jours de présence en clientèle supérieur à 210, participation à des actions à réaliser en dehors des horaires de travail ""conventionnelles""...)
-Devoteam a dénoncé son accord d'entreprise, aucun nouvel accord jusqu'à mon départ.",Ancien employé,Chef de projet maîtrise d'œuvre,Lyon,4.1,2.0
-110,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13660-AVIS-SOC-GLASSDOOR-E26056_P1.html,Groupe SII,"Nov 22, 2019",Activités et avantages proposées par le CE,Salaire qui évolue assez peu,Employé actuel,Employé anonyme,Lyon,3.6,3.0
-111,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13649-AVIS-SOC-GLASSDOOR-E2548_P2.html,Manpower,"Oct 12, 2019",Flexibilité. Reconnaissance humaine. Avantages sociaux.,"A titre personnel, aucun inconvénients",Employé actuel,Employé anonyme,Troyes,4.3,4.0
-112,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13716-AVIS-SOC-GLASSDOOR-E466295_P2.html,Sopra Steria,"Nov 23, 2019","Salaire correct
-Bonne ambiance d'équipe
-Confiance dans les développeurs","Selon les équipes, la pression peut être très forte.
-La répartition du travail peut être assez injuste, peu de reconnaissance du travail accompli, et peu de ""recadrage"" quand celui ci n'est pas fait",Ancien employé,Employé anonyme,Lille,3.4,3.0
-113,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13753-AVIS-SOC-GLASSDOOR-E13339_P1.html,Open,"Dec 12, 2019","À l'écoute des collaborateurs. 
-Tickets restaurant.",Rémunération un peu en dessous de la moyenne.,Employé actuel,Ingénieur D'études,Lille,3.5,5.0
-114,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13679-AVIS-SOC-GLASSDOOR-E906809_P2.html,Fortuneo SA,"Jul 13, 2017","Société à taille humaine, organisation agile, circuits de décision courts. 
-Forts enjeux de croissance, entreprise bien gérée ; 
-CE et avantages sociaux avantageux",Certaines contraintes du secteur bancaire ralentissent parfois l'avancement des projets ; nécessité de s'adapter régulièrement sur un marché très challengé,Employé actuel,Marketing,Paris,3.5,4.0
-115,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13708-AVIS-SOC-GLASSDOOR-E4252_P1.html,Groupe Crédit Agricole,"Dec 10, 2019","Groupe collaboratif, salaire, missions variées (valable pour la banque en général)","Des périodes creuses parfois trop nombreuses
-Une déconnexion des services",Employé actuel,Stagiaire,Casablanca,3.8,4.0
-116,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13676-AVIS-SOC-GLASSDOOR-E1130981_P1.html,Groupe Altice Média,"Mar 3, 2019","Bons horaires
-De bonnes responsabilités
-Une bonne ambiance",Dépendence entre les différents services,Stagiaire actuel,Stagiaire anonyme,Paris,3.4,4.0
-117,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13725-AVIS-SOC-GLASSDOOR-E10842_P1.html,Plastic Omnium,"Dec 11, 2019",Entreprise internationale avec des opportunités dans toutes les régions,"Gestion à l’ancienne 
-L’équipe RH pas très présente en ce qui concerne l’accompagnement des salariés",Employé actuel,Employé anonyme,Lyon,3.5,3.0
-118,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13577-AVIS-SOC-GLASSDOOR-E235143_P1.html,UK Ministry of Defence,"Oct 1, 2009",Possibilité de travailler sur de vastes projets d'importance stratégique dans le domaine de la haute technologie. De nombreuses possibilités d'évoluer avec des projets variés. Grande autonomie pour chaque employé.,"Mauvaise gestion des RH, carrière décidée par le diplôme initial. Difficulté à lancer de nouveaux projets. Lenteur administrative fréquente dans la vie quotidienne.",Anonymous,None,Paris,3.5,4.0
-119,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13809-AVIS-SOC-GLASSDOOR-E413452_P2.html,Transdev,"Jul 20, 2019",Des équipes engagées et passionnées,"Un management instable: 4 PDG et 4 DG France en 8 ans, des réorganisations à la chaîne, une stratégie peu claire, perte de connaissance métier et une déconnexion entre les valeurs affichées et les pratiques du management",,None,Issy,2.9,1.0
-120,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13729-AVIS-SOC-GLASSDOOR-E234791_P1.html,Astek Group,"Aug 28, 2016",Salaire plus élevé que la plupart des sociétés de services basés a Sophia Antipolis,"Politique: faire un maximum de profit
-Management: Aucun suivi
-Il vous faut démissionner si la mission ne vous convient pas!",,None,Antibes,1.7,2.0
-121,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13570-AVIS-SOC-GLASSDOOR-E1394648_P1.html,Abaka,"Apr 18, 2019","Une bonne ambiance et des collègues de bon niveau, à l’écoute.",Trop loin du centre ville de Rennes mais ils ont déménagé depuis mon départ,Ancien employé,Chargé De Recherche,Bruz,4.8,5.0
-122,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13612-AVIS-SOC-GLASSDOOR-E845851_P1.html,Feu Vert,"Sep 23, 2019",Je cherche encore des avantages....,"RH inhumains, manager débordée et incapable de gérer son équipe correctement. A fuir",Ancien employé,Employé anonyme,Compiègne,2.8,1.0
-123,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13691-AVIS-SOC-GLASSDOOR-E1130973_P1.html,Groupe Adéquat,"Nov 6, 2019","Ponctualité, sérieux, à l'écoute, souplesse., Régularité","Aucun, aucun, aucun, aucun, aucun",Ancien employé,Employé anonyme,Grenoble,3.9,4.0
-124,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13678-AVIS-SOC-GLASSDOOR-E379472_P1.html,Logware,"Dec 10, 2019","Aucun avantage, ne perdez pas votre temps.
-Que des mensonges","- Préjugé sur des simples dit
-- Aucune notion de management
-Fin de mission en période d'essais, on me demande de demander un congé sans soldes,  donc congé sans soldes IMPOSES et pendant ce dernier on me licencie pour motif : trop de personnes en intercontrat.
-
-RH incompétente.
-
-Un conseil fuyez et ne prenez jamais contact avec cette ""Entreprise"".",Employé actuel,Coordinateur IT,Paris,3.6,1.0
-125,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13652-AVIS-SOC-GLASSDOOR-E788645_P1.html,ITS Group,"Dec 12, 2019","Agence régionale proche des collaborateurs, suivis, évolution professionnelle.
-Missions variées (plusieurs grands comptes).",Comme dans toutes les ESN !,Employé actuel,responsable opérationnel de comptes,Lille,3.5,4.0
-126,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13803-AVIS-SOC-GLASSDOOR-E20114_P1.html,Veolia,"Dec 12, 2019","Treizième mois, très bon CE, locaux agréables",difficulté à se sentir à sa place parfois,Employé actuel,Employé anonyme,Bruxelles,3.4,3.0
-127,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13699-AVIS-SOC-GLASSDOOR-E3489_P2.html,LVMH,"Jun 7, 2019",On acquière de l’expérience,Un groupe financier très exigeant,Employé actuel,Customer Service Manager,Bruxelles,3.7,3.0
-128,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13629-AVIS-SOC-GLASSDOOR-E474142_P1.html,CRIM (Computer Research Institute of Montreal),"Nov 12, 2019","- Ambiance de travail collaborative et relaxe
-- Technologies de pointe et grande liberté côté choix technologiques
-- Projets parfois stimulants
-- Conditions de travail (5 semaines de vacances la première année, télétravail hebdomadaire, journées de maladie illimitées, 5% REER, etc.)","- Gestion des projet largement déficiente à tous les niveaux
-- Finalité des solutions développées discutables pour de nombreux projets subventionnés
-- Bonnes pratiques de développement déficientes, incapable de livrer des solutions logicielles robustes
-- Beaucoup de projets en parallèle rend le temps de travail peu productif
-- Projets clients souvent peu stimulants",Employé actuel,Agent De Recherche Sénior,"Montréal, QC",3.5,4.0
-129,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13606-AVIS-SOC-GLASSDOOR-E31197_P1.html,Volvo Construction Equipment,"Nov 27, 2018","Travailler pour un grand groupe de grande renommée, tout en profitant de l'agilité d'une structure locale de taille raisonnable.","Environnement très politique, luttes d'influences, management débordé.",Employé actuel,Employé anonyme,Bruxelles,4.0,4.0
-130,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13769-AVIS-SOC-GLASSDOOR-E658429_P1.html,Phaidon International,"Jun 21, 2017","- Structure de commission supérieure vous permettant d'économiser des sommes exorbitantes si vous faites bien votre travail. 
-- Excellente culture et progression, en atteignant vos objectifs de façon constante, vous recevrez rapidement une promotion et vous aurez toujours le temps d'en profiter avec des gens vraiment sympathiques.
-- De grandes chances de vous retrouver devant les clients plutôt que dans une boîte...","- Il y a très peu d'infrastructures. Cela veut dire qu'il faut sortir les poubelles - en été il fait très chaud dans le bureau.
-- Sérieusement, si je dois passer un autre week-end à skier en montagne, ou à descendre une rivière pendant 4 heures avec une bière à la main, je vais faire une dépression.",Employé actuel,Consultant principal,Zurich,3.9,3.0
-131,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13640-AVIS-SOC-GLASSDOOR-E427636_P2.html,Altran Engineering Solution,"Sep 29, 2019",Pass navigo remboursé à 100% et c’est tout,"Aucune valorisation de l’être humain , aucune prise en compte de la qualité du travail, seul la quantité compte, pas d’intéressement, pas de participation, pas de primes, aucune confiance.
+125,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13711-AVIS-SOC-GLASSDOOR-E3043501_P1.html,Crédit Agricole d'Ile de France,"Dec 13, 2019","Rémunération, formation, expérience reconnu sur le cv",Pas vraiment d'inconvénient à ce jour,Employé actuel,Assistant Chargé D'Affaires,Paris,3.5,3.0
+126,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13718-AVIS-SOC-GLASSDOOR-E1881876_P1.html,CITECH,"Nov 12, 2019",Une entreprise où il fait bon vivre / De belles primes,Ne me prononce pas,Employé actuel,Ingénieur D'Affaires,Paris,4.6,5.0
+127,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13792-AVIS-SOC-GLASSDOOR-E33451_P1.html,GFI Software,"Apr 22, 2016",La mutuelle et le CE me paraissaient relativement interessants,"GFI ressemble à beaucoup d'autres SSII importantes, par l'effectif, qui ont eu une croissance externe importante tout en conservant une organisation et une gestion  de grosse PME",,None,Lyon,2.2,2.0
+128,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13647-AVIS-SOC-GLASSDOOR-E241449_P1.html,Statkraft AS,"Apr 27, 2019",Une entreprise apte à se réinventer. Ouvrez-vous à un travail autonome et à de belles opportunités pour relever de nouveaux défis. Bonne ambiance et bonnes conditions de travail.,"Silos. Doit s’ouvrir à davantage d’interactions et de collaboration entre les différentes équipes/compétences et interfaces.  
+Analyste des risques",Employé actuel,Anonymous,None,4.0,4.0
+129,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13673-AVIS-SOC-GLASSDOOR-E1464013_P2.html,Paris Inn Group,"Jun 9, 2018",Bels hôtels mais très petits,"On a eu peur de la direction générale. Du stress et de la pression jaque jour. Pleins d'heures supplémentaires sans compensation, sans dire merci. Salaires non competitives et pas d'augmentations. Pas de respect pour les salariés. Pas de ""people skills"", pas de ""soft skills"", pas de ""leadership""... très triste.
+Un ""Managing Director"" qui n'arrive pas à parler anglais... aussi triste.
+Un ""Managing Director"" qui...",Ancien employé,Employé anonyme,Paris,2.2,1.0
+130,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13639-AVIS-SOC-GLASSDOOR-E7448_P2.html,Altran Group,"Nov 20, 2019",Aucun avantage à recenser à ce jour ( même la place parking est payante ),"Horaires de travail, charge insoutenable, hiérarchie ne motive pas les collaborateurs.",Ancien employé,Employé anonyme,Paris,3.5,2.0
+131,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13564-AVIS-SOC-GLASSDOOR-E4245_P1.html,Bayer,"Dec 6, 2019",Organiser / structure / le directeur Excellent / Teamwork / helpful /,Aucuns inconvénients / car la société est très bien organisée,Employé actuel,Employé anonyme,"Marle, Picardie",3.9,5.0
+132,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13562-AVIS-SOC-GLASSDOOR-E1303620_P1.html,2S2I Solutions & Services,"Jul 23, 2019","Une visite (presque) mensuelle des collaborateurs par les commerciaux(ales)
+Paiement d'une formation négociable à la signature du contrat
+Missions plutôt intéressantes","Aucune information sur l'évolution de ma carrière
+Culture d'entreprise très peu développée
+Une convention Syntec très désavantageuse (notamment pour les congés et les frais de déplacement)",Employé actuel,CP AMOA,Montpellier,3.3,3.0
+133,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13777-AVIS-SOC-GLASSDOOR-E116383_P1.html,GFI,"Sep 24, 2019","CE, mutuelle, intranet, à l'écoute des envies des collaborateurs",Peu d'expérience chez gfi je ne sais pas encore,Employé actuel,Product Owner,"Saint-Ouen, Île-de-France",2.9,4.0
+134,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13606-AVIS-SOC-GLASSDOOR-E31197_P1.html,Volvo Construction Equipment,"Nov 27, 2018","Travailler pour un grand groupe de grande renommée, tout en profitant de l'agilité d'une structure locale de taille raisonnable.","Environnement très politique, luttes d'influences, management débordé.",Employé actuel,Employé anonyme,Bruxelles,4.0,4.0
+135,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13728-AVIS-SOC-GLASSDOOR-E200717_P2.html,Astek,"Sep 16, 2019","Plusieurs clients, une bonne équipe de commerciaux","pas bcp d'avantage, pass bcp de RTT",Employé actuel,Ingénieur Informatique,Paris,2.9,3.0
+136,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13795-AVIS-SOC-GLASSDOOR-E231247_P1.html,ACCEO Solutions,"Nov 22, 2019",Belle collaboration avec l'équipe de gestion,Changements fréquents en raison de regroupements,Ancien employé,Employé anonyme,"Sherbrooke, QC",3.3,4.0
+137,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13571-AVIS-SOC-GLASSDOOR-E1061225_P1.html,Expertime,"Aug 14, 2019",l'ambiance est agréable sur le lieu de travail,"organisation, charge de travail mal répartie",Employé actuel,Employé anonyme,Paris,3.7,3.0
+138,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13640-AVIS-SOC-GLASSDOOR-E427636_P2.html,Altran Engineering Solution,"Sep 29, 2019",Pass navigo remboursé à 100% et c’est tout,"Aucune valorisation de l’être humain , aucune prise en compte de la qualité du travail, seul la quantité compte, pas d’intéressement, pas de participation, pas de primes, aucune confiance.
 Aucune opportunité d’évolution.
 Salaire bien en dessous de la moyenne du marché. 
 Aucun équilibre vie privé et pro.
 Pas de valeurs, pas de culture d’entreprise",Ancien employé,Manager recrutement,Puteaux,3.2,1.0
-132,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13625-AVIS-SOC-GLASSDOOR-E192082_P2.html,Polytechnique Montréal,"Oct 16, 2017","-Travailler avec des experts de renommée mondiale
--Horaire Flexible",L'administration mets parfois du temps à gérer vos demande.,Employé actuel,Employé anonyme,"Montréal, QC",4.4,5.0
-133,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13572-AVIS-SOC-GLASSDOOR-E2098670_P1.html,Adsearch,"Nov 5, 2019","Travail d'équipe, horaire appréciable, formateur","La Rémunération du à l'alternance,",Employé actuel,Chargée De Recrutement,Lyon,4.5,5.0
-134,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13563-AVIS-SOC-GLASSDOOR-E13082_P2.html,CEGID,"Aug 6, 2019",Votre CE est la seule chose qui vous sauve.,Manque absolu de respect envers les employés. C'est bien beau des faire des événements pour valoriser vos produits mais il faut penser à vos collaborateurs.,Ancien employé,Employé anonyme,Lyon,2.7,1.0
-135,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13790-AVIS-SOC-GLASSDOOR-E9028_P1.html,Gfi Informatique,"Dec 12, 2019","Des missions plutôt sympa, des managers à l'écoute, et les missions en CDS juste à côté de la gare Lille Flandres",Quelques projets sur d'anciennes stack techniques,Employé actuel,Analyste technique,Lille,3.4,5.0
-136,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13602-AVIS-SOC-GLASSDOOR-E3516_P2.html,Volvo Group,"Feb 20, 2019","L'équilibre travail-vie privée
-L'atmosphère particulièrement agréable
-Les processus et outils d'achat de référence","Le salaire est légèrement inférieur à la moyenne
-Il est difficile de faire évoluer sa carrière verticalement",Ancien employé,Acheteur,Lyon,4.0,4.0
-137,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13745-AVIS-SOC-GLASSDOOR-E3803_P2.html,Capgemini,"Dec 3, 2019","Missions chez de grands comptes , Projets chez le client au sein d'équipes capgemini , Possibilités d’évolution surtout en début de carrière .","Négociation salariale assez dure , augmentations assez modestes , distance relationnelle avec l'entreprise",Employé actuel,Front,Paris,3.6,3.0
-138,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13792-AVIS-SOC-GLASSDOOR-E33451_P1.html,GFI Software,"Apr 22, 2016",La mutuelle et le CE me paraissaient relativement interessants,"GFI ressemble à beaucoup d'autres SSII importantes, par l'effectif, qui ont eu une croissance externe importante tout en conservant une organisation et une gestion  de grosse PME",,None,Lyon,2.2,2.0
-139,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13639-AVIS-SOC-GLASSDOOR-E7448_P2.html,Altran Group,"Nov 20, 2019",Aucun avantage à recenser à ce jour ( même la place parking est payante ),"Horaires de travail, charge insoutenable, hiérarchie ne motive pas les collaborateurs.",Ancien employé,Employé anonyme,Paris,3.5,2.0
-140,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13708-AVIS-SOC-GLASSDOOR-E4252_P2.html,Groupe Crédit Agricole,"Nov 7, 2019",Un cadre (lieu)de travail très agréable,une lourdeur organisationnelle et beaucoup trop de strats managériales,Employé actuel,Employé anonyme,Villenave,3.8,3.0
-141,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13661-AVIS-SOC-GLASSDOOR-E633820_P2.html,Sii Poland,"Nov 7, 2017","C'est comme toute autre société de conseil typique.
-mieux que l'autre ssii plus grand.
-travaille avec les grands clients majeurs sur le marché.
-a des projets intéressants dans mon secteur.",il reste une société de conseil donc l'évolution professionnelle est inexistante,Employé actuel,Employé anonyme,Valbonne,4.8,4.0
-142,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13805-AVIS-SOC-GLASSDOOR-E846722_P1.html,OTV,"Aug 17, 2019",Grand groupe métier de l’ingenierie Intéressant Developpement durable,"Salaire pas très interessant,",Employé actuel,Employé anonyme,Paris,4.2,4.0
-143,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13646-AVIS-SOC-GLASSDOOR-E3489_P2.html,LVMH,"Jun 7, 2019",On acquière de l’expérience,Un groupe financier très exigeant,Employé actuel,Customer Service Manager,Bruxelles,3.7,3.0
-144,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13705-AVIS-SOC-GLASSDOOR-E2762239_P1.html,Sanofi Pasteur,"Oct 25, 2019","Team, rémunération, expérience, responsabilités, management",Processes tres longs (inconvénients d'un grand groupe),Employé actuel,Employé anonyme,Zagreb,4.0,5.0
-145,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13603-AVIS-SOC-GLASSDOOR-E5772_P1.html,Volvo Trucks,"Apr 2, 2019",Une bonne production de l’entreprise,C est Pas très bien organise,Ancien employé,Mécanique,"Massy, Île-de-France",3.9,4.0
-146,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13638-AVIS-SOC-GLASSDOOR-E1481570_P1.html,ALTRAD Group,"Jun 25, 2019","Environnement de travail agréable
+139,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13638-AVIS-SOC-GLASSDOOR-E1481570_P1.html,ALTRAD Group,"Jun 25, 2019","Environnement de travail agréable
 Equipes dynamiques
 Entreprise réactive
 Bonne répartition des tâches afin d'optimiser au mieux l'atteinte des objectifs fixés","Echange des informations pas toujours efficace
 Structure complexe à comprendre",Ancien stagiaire,Stagiaire anonyme,Montpellier,3.6,5.0
-147,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13551-AVIS-SOC-GLASSDOOR-E794111_P1.html,Atos,"May 21, 2019",Les missions peuvent être des fois intéressantes .,Les ressources humaines et l'empathie sont inexistantes.,Employé actuel,Ingénieur Développement Logiciel,Bry,3.6,2.0
-148,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13770-AVIS-SOC-GLASSDOOR-E1013306_P1.html,D2SI,"Apr 24, 2019","Belle entreprise, avec un esprit « village gaulois ». Les managers sont proches de l’équipe (Bières tout les Vendredi) et les seniors sont toujours à l'écoute des junior.  Bien plus qu’une boîte de consulting: c’est une boîte d’ingénieurs et de geeks. Montée en compétence technique garantie.",Il n’y a pas de cantine mais on s’en moque. On a les bières et les pizzas lors des formations en soirée!,Employé actuel,Consultant,Paris,4.0,5.0
-149,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13778-AVIS-SOC-GLASSDOOR-E9028_P2.html,Gfi Informatique,"Nov 16, 2019",Les missions sont plutôt intéressantes,La rémunération est vraiment trop basse et les augmentations sont dérisoires.,Employé actuel,UX Designer,Niort,3.4,3.0
-150,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13564-AVIS-SOC-GLASSDOOR-E4245_P1.html,Bayer,"Dec 6, 2019",Organiser / structure / le directeur Excellent / Teamwork / helpful /,Aucuns inconvénients / car la société est très bien organisée,Employé actuel,Employé anonyme,"Marle, Picardie",3.9,5.0
-151,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13604-AVIS-SOC-GLASSDOOR-E37990_P1.html,Volvo Cars,"May 15, 2019",Département de confiance avec évolution,Évolution de revenu pas adapté,Employé actuel,Employé anonyme,None,4.1,4.0
-152,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13633-AVIS-SOC-GLASSDOOR-E672181_P2.html,Softeam,"Mar 29, 2019","Positionnement très intéressant sur le marché bancaire avec beaucoup de missions proposées.
-Soirée et Déjeuner organisés régulièrement","Aucun partage de la vision stratégique
-Difficulté pour évoluer professionnellement
-Les commerciaux sont trop portés sur leur variable au détriment des consultants
-Trop d'interaction avec trop de personnes (on ne sait jamais à qui s'adresser)",Ancien employé,Employé anonyme,Paris,3.4,3.0
-153,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13692-AVIS-SOC-GLASSDOOR-E929611_P1.html,Teads,"Oct 29, 2019",Esprit start up / société dynamique et innovante / Autonomie ++,Espace restreint dans les locaux parisiens,Employé actuel,Employé anonyme,Paris,3.6,5.0
-154,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13777-AVIS-SOC-GLASSDOOR-E116383_P1.html,GFI,"Sep 24, 2019","CE, mutuelle, intranet, à l'écoute des envies des collaborateurs",Peu d'expérience chez gfi je ne sais pas encore,Employé actuel,Product Owner,"Saint-Ouen, Île-de-France",2.9,4.0
-155,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13600-AVIS-SOC-GLASSDOOR-E541990_P1.html,CGIAR,"Mar 11, 2019","Assurance, Télétravail, Flexibilité et aménagement des horaires",C'ÉTAIT UN LIEU IMPRESSIONNANT. AUCUN DESAVANTAGE QUE JE PEUX DIRE,Ancien intérimaire,Intérimaire anonyme,Montpellier,3.2,4.0
-156,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13673-AVIS-SOC-GLASSDOOR-E1464013_P2.html,Paris Inn Group,"Jun 9, 2018",Bels hôtels mais très petits,"On a eu peur de la direction générale. Du stress et de la pression jaque jour. Pleins d'heures supplémentaires sans compensation, sans dire merci. Salaires non competitives et pas d'augmentations. Pas de respect pour les salariés. Pas de ""people skills"", pas de ""soft skills"", pas de ""leadership""... très triste.
-Un ""Managing Director"" qui n'arrive pas à parler anglais... aussi triste.
-Un ""Managing Director"" qui...",Ancien employé,Employé anonyme,Paris,2.2,1.0
-157,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13624-AVIS-SOC-GLASSDOOR-E397805_P1.html,STM,"Dec 10, 2019","Horaire flexible, salaires, Équipe, diversité d’emplois",les processus interne peuvent être amèliorer,Ancien employé,Employé anonyme,"Montréal, QC",3.7,4.0
-158,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13723-AVIS-SOC-GLASSDOOR-E373493_P1.html,Micropole,"Oct 14, 2019","Bonne ambiance 
-Entreprise humaine",Salaires trop bas par rapport au secteur,Employé actuel,Consultant EPM,Levallois-Perret,3.2,4.0
-159,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13790-AVIS-SOC-GLASSDOOR-E9028_P2.html,Gfi Informatique,"Nov 16, 2019",Les missions sont plutôt intéressantes,La rémunération est vraiment trop basse et les augmentations sont dérisoires.,Employé actuel,UX Designer,Niort,3.4,3.0
-160,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13633-AVIS-SOC-GLASSDOOR-E672181_P1.html,Softeam,"Sep 30, 2019",Taille humaine-proximité des managers,Avantages sociaux quasi inexistant,Employé actuel,Employé anonyme,Paris,3.4,3.0
-161,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13615-AVIS-SOC-GLASSDOOR-E6538_P2.html,CNH Industrial,"May 26, 2017","Environnement de travail tres interessant. Les collègues sont sympathiques et toujours prèt à donner un coup de main. 
-Flexibilité sur le temps de travail. 
-Société multiculturelle","Documentations nécessaires pour certains projets très souvent manquant.
-Possibilités de croissance réduites
-Les formations internes sont rares ou bien souvent absentes
-Beaucoup de projets lancés en parallèle",Consultant .NET,None,Turin,3.5,4.0
-162,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13668-AVIS-SOC-GLASSDOOR-E1127933_P2.html,cerema,"Jan 29, 2017","la diversité des profils 
-une opportunité pour apprendre et découvrir le métier de la recherche scientifique dans le but de résoudre des problèmes du quotidien","Manque d'organisation
-la restauration est trop chère pour un stagiaire",Ancien stagiaire,Stagiaire anonyme,None,3.9,3.0
-163,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13636-AVIS-SOC-GLASSDOOR-E1303620_P1.html,2S2I Solutions & Services,"Jul 23, 2019","Une visite (presque) mensuelle des collaborateurs par les commerciaux(ales)
+140,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13713-AVIS-SOC-GLASSDOOR-E3142186_P1.html,Crédit Agricole,"Dec 12, 2019",13 mois et intéressement,"Évolution de poste extrêmement lente 
+Pression commerciale (toujours plus de vente) 
+Manque d’empathie de la direction",Employé actuel,Conseiller commercial,Coutances,0.0,2.0
+141,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13648-AVIS-SOC-GLASSDOOR-E1137726_P2.html,Sparklane,"Feb 6, 2018","Equipes jeunes et dynamiques
+Bonne ambiance","Management ""tiré""
+Gros horaires de travail
+Plus orienté développement que recherche",Ancien employé,Ingénieur recherche et développement,Nantes,3.4,1.0
+142,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13617-AVIS-SOC-GLASSDOOR-E139323_P1.html,CNH Industrial Capital,"Nov 12, 2019","Flexibilité 
+Opportunités 
+International 
+Ambiance 
+Autonomie","Désordre 
+Management 
+Organisation 
+Manque de projets 
+Mode de travail",Employé actuel,Employé anonyme,None,3.9,4.0
+143,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13625-AVIS-SOC-GLASSDOOR-E192082_P1.html,Polytechnique Montréal,"Sep 15, 2019","Grande liberté 
+Autonomie
+Équipements de pointe
+Compétences des équipes",Les rémunérations sont limitées (recherche universitaire),Employé actuel,Docto,"Montréal, QC",4.4,5.0
+144,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13712-AVIS-SOC-GLASSDOOR-E3041003_P1.html,Crédit Agricole d'Aquitaine,"Oct 22, 2019",Beaucoup de congés et très bon parcours de formation avec de grandes écoles.,Le salaire trop bas. Trop traditionnelle.,Ancien employé,Employé anonyme,None,3.4,3.0
+145,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13741-AVIS-SOC-GLASSDOOR-E1132227_P1.html,JEMS Group,"Nov 24, 2019","- Propositions de formation
+- Liberté d'étre force de proposition et bonne communication",Aucun à noter pour le moment,Employé actuel,Employé anonyme,Paris,4.3,5.0
+146,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13554-AVIS-SOC-GLASSDOOR-E855284_P1.html,Atos Medical,"Dec 21, 2016","Si vous aimez les gens qui s'approprient vos succès, vos idées : allez-y
+Pas de plan marketing, aucun dossier de remboursement en cours.
+Fraude la sécurité sociale en se faisant rembourser les nouvelles prothèses phonatoires avec les anciennes références qui avaient, elles, le droit d'etre remboursées","Trop long à énumérer, mais tant que cette société sera manager que sous l'aspect financier sans tenir compte du reste et plus particulièrement des patients, elle stagnera",Ancien employé,Sales and Business Development Manager,"Bagneux, Île-de-France",2.6,1.0
+147,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13636-AVIS-SOC-GLASSDOOR-E1303620_P1.html,2S2I Solutions & Services,"Jul 23, 2019","Une visite (presque) mensuelle des collaborateurs par les commerciaux(ales)
 Paiement d'une formation négociable à la signature du contrat
 Missions plutôt intéressantes","Aucune information sur l'évolution de ma carrière
 Culture d'entreprise très peu développée
 Une convention Syntec très désavantageuse (notamment pour les congés et les frais de déplacement)",Employé actuel,CP AMOA,Montpellier,3.3,3.0
-164,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13728-AVIS-SOC-GLASSDOOR-E200717_P1.html,Astek,"Dec 5, 2019",comme les autres esn de +1000 salariés... frais déplacement et TR... CE a minima,une esn qui rachète pour grossir et avec ses inconvénients dans sa gestion rh à moyen-long terme...,Ancien employé,Agile Consultant/Product Owner,Paris,2.9,2.0
-165,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13552-AVIS-SOC-GLASSDOOR-E2131167_P1.html,Atos Consulting,"Jun 26, 2019","Mutuelle, salaire correct, avantages CE","Pas de suivi ni écoute du management, pas de changement de mission malgré plusieurs mois sur un projet peu intéressant et dans un contexte difficile",Employé actuel,Senior Consultant,Paris,2.8,2.0
-166,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13796-AVIS-SOC-GLASSDOOR-E3054_P1.html,Accor,"Dec 11, 2019",Groupe qui met à disposition beaucoup de moyen pour vous inclure. Beaucoup de postes très intéressant au même sein du groupe. Le siège à Issy Les Moulineaux est un super endroit pour travailler !,Avantages salariés pas assez intéressants,Ancien employé,Alternant,Issy,3.8,5.0
-167,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13704-AVIS-SOC-GLASSDOOR-E9347_P2.html,Sanofi,"Nov 11, 2019",Qualité de vie - équilibre vie privée vie professionnelle,Manque de vison / stratégie à long terme,Employé actuel,Business Analyst,Gentilly,3.6,4.0
-168,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13607-AVIS-SOC-GLASSDOOR-E301204_P1.html,Volvo Information Technology,"Dec 4, 2016","Culture suédoise, bon équilibre entre vie professionnelle et vie privée",Certains anciens sont là depuis très longtemps et ne veulent pas vraiment accepter le changement.,Ancien employé,Anonymous,Lyon,3.5,4.0
-169,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13725-AVIS-SOC-GLASSDOOR-E10842_P2.html,Plastic Omnium,"May 7, 2019","Bon mindset, locaux propres et modernes, effectif jeune et dynamique",Manque de visibilité sur l’avenir de la société,Employé actuel,Employé anonyme,Compiègne,3.5,3.0
-170,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13691-AVIS-SOC-GLASSDOOR-E1130973_P2.html,Groupe Adéquat,"Nov 24, 2017","Valeurs humaines et respect des individus, peu importe leur place dans l'entreprise, leur qualification et leur ancienneté",Mutuelle beaucoup trop chère -> environ 50€/salarié/mois,Employé actuel,Chargée De Recrutement,"Chaumont, Champagne-Ardenne",3.9,5.0
-171,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13596-AVIS-SOC-GLASSDOOR-E111193_P2.html,Lacoste,"Mar 6, 2019","Marque, équipes jeunes et dynamiques","Manque de transparence, de culture du feedback",Employé actuel,Employé anonyme,"Montréal, QC",3.4,3.0
-172,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13700-AVIS-SOC-GLASSDOOR-E1127781_P1.html,CELINE,"Nov 19, 2019",esprit d'equipe et environnement de travail,Il y pas de 13 mois,Ancien employé,Conseiller,Paris,3.0,3.0
-173,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13737-AVIS-SOC-GLASSDOOR-E2947949_P1.html,L&T Thales Technology Services,"Sep 29, 2019","Bien accueilli
-Travail intéressant
-Bonne entente au sein de l'équipe",Rien à redire sur les conditions de travail,Ancien stagiaire,Stagiaire anonyme,None,3.5,5.0
-174,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13710-AVIS-SOC-GLASSDOOR-E476908_P1.html,CACIB,"Dec 11, 2019","Les rémunérations élevées, grace aussi aux chèques cadeaux récurrents et à toutes les offres du CE
-Des locaux agréables et spacieux","Aucun suivi RH: je l ai rencontré en entretien de recrutement, jamais vu pendant 5 ans à part le jour de mon départ.
-Des mobilités internes compliquées car aucun suivi RH",Ancien employé,Gestionnaire middle office banque,Paris,3.5,3.0
-175,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13614-AVIS-SOC-GLASSDOOR-E230035_P2.html,SeLoger,"Aug 7, 2018","Equipes jeunes, Business intéressant, Amibition","Forte charge de travail, Stress lié au changements stratégiques, Des collègues peu engagés et mal formés",Employé actuel,Développeur back End,Paris,4.3,2.0
-176,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13800-AVIS-SOC-GLASSDOOR-E1443740_P1.html,ibis,"Nov 26, 2019",dirigeants et managers très patients et respectueux,améliorations à faire sur la procédure d'encaissement,Ancien employé,Employé anonyme,Lyon,3.9,4.0
-177,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13783-AVIS-SOC-GLASSDOOR-E231247_P1.html,ACCEO Solutions,"Nov 22, 2019",Belle collaboration avec l'équipe de gestion,Changements fréquents en raison de regroupements,Ancien employé,Employé anonyme,"Sherbrooke, QC",3.3,4.0
-178,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13692-AVIS-SOC-GLASSDOOR-E929611_P2.html,Teads,"Aug 24, 2018","- Ce qu'on fait tous les jours apporte une vrai valeur
-- Bonne ambiance détendu : fat boy, canapé, console, baby foot, céréales, fruits, boissons, bar, ...
-- Organisation en feature team, on a l'impression d'être un peu une start up dans une grosse boite
-- Projets intéressants côté business
-- Beaucoup de travail, on s'ennuie jamais
-- Pas mal de techno utilisées (java, scala, node, go, react, terraform, aws, .....","- Pas mal de code/projets legacy, mais tout le monde en a conscience et travaille pour améliorer",Employé actuel,Software Engineer,Montpellier,3.6,4.0
-179,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13704-AVIS-SOC-GLASSDOOR-E9347_P1.html,Sanofi,"Dec 12, 2019","De belle possibilités, des gens passionés, un cadre de travail agréable, des avantages à de nombreux niveaux","De nombreux sites en France, donc pas mal de travail d'équipe à distance.",Employé actuel,Employé anonyme,Gentilly,3.6,5.0
-180,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13562-AVIS-SOC-GLASSDOOR-E1303620_P1.html,2S2I Solutions & Services,"Jul 23, 2019","Une visite (presque) mensuelle des collaborateurs par les commerciaux(ales)
-Paiement d'une formation négociable à la signature du contrat
-Missions plutôt intéressantes","Aucune information sur l'évolution de ma carrière
-Culture d'entreprise très peu développée
-Une convention Syntec très désavantageuse (notamment pour les congés et les frais de déplacement)",Employé actuel,CP AMOA,Montpellier,3.3,3.0
-181,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13746-AVIS-SOC-GLASSDOOR-E589990_P1.html,Capgemini Invent,"Dec 12, 2019","- Ambiance 
-- Diversité des missions 
-- Pas de sectorisation pour les juniors 
-- Bonnes formations 
-- Moments de convivialité","Selon les secteurs, beaucoup de déplacement mais cela fait partie du métier",Employé actuel,Employé anonyme,Issy,4.0,5.0
-182,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13598-AVIS-SOC-GLASSDOOR-E1363502_P1.html,Lacoste Traiteur,"Jun 15, 2017","Les salariés sont écoutés, les responsables sont ouverts aux propositions
-Repas fournis le midi 
-Evenements d'entreprise","Les salaires sont assez bas et inégaux sur un même poste 
-Manque de communication interne",Ancien employé,Employé anonyme,None,3.5,4.0
-183,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13678-AVIS-SOC-GLASSDOOR-E379472_P2.html,Logware,"Jan 31, 2019","suivi commercial
-Salaire
-Organisation d’événement en dehors du travail","léger manque de formation
-rien d'autre",Employé actuel,Ingénieur de production,Paris,3.6,4.0
-184,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13621-AVIS-SOC-GLASSDOOR-E1178969_P1.html,Morgan Philips Group,"Aug 18, 2018",Une vision stratégique claire et efficace,Une croissance très forte un peu rapide,Ancien employé,Employé anonyme,Strasbourg,3.9,4.0
-185,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13654-AVIS-SOC-GLASSDOOR-E899918_P1.html,ITS Overlap,"May 10, 2018",bonne ambiance avec les collègues,"manque de ressources
-trop axé pratique de SSII",Employé actuel,Employé anonyme,Boulogne-Billancourt,3.0,3.0
-186,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13709-AVIS-SOC-GLASSDOOR-E1365869_P1.html,Groupe Crédit Agricole du Maroc,"Oct 23, 2019","salaire, projets internationaux très intéressants","RAS dans l'ensemble, bon employeur",Employé actuel,Employé anonyme,Oujda,3.3,3.0
-187,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13559-AVIS-SOC-GLASSDOOR-E13824_P1.html,SolidWorks,"Jan 25, 2018","Fait partie d'un grand groupe de renom comme DS (environnement international, réseau étendu mais pas toujours ouvert à la branche Solidworks).
+148,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13728-AVIS-SOC-GLASSDOOR-E200717_P1.html,Astek,"Dec 5, 2019",comme les autres esn de +1000 salariés... frais déplacement et TR... CE a minima,une esn qui rachète pour grossir et avec ses inconvénients dans sa gestion rh à moyen-long terme...,Ancien employé,Agile Consultant/Product Owner,Paris,2.9,2.0
+149,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13676-AVIS-SOC-GLASSDOOR-E1130981_P1.html,Groupe Altice Média,"Mar 3, 2019","Bons horaires
+De bonnes responsabilités
+Une bonne ambiance",Dépendence entre les différents services,Stagiaire actuel,Stagiaire anonyme,Paris,3.4,4.0
+150,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13550-AVIS-SOC-GLASSDOOR-E10686_P2.html,Atos,"Nov 18, 2019",Mission Ambiance Hiérarchie Direction Implication,Rien A Signaler Pour Instant,Employé actuel,IT Business Analyst,Toulouse,3.3,5.0
+151,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13585-AVIS-SOC-GLASSDOOR-E13058_P1.html,Cegedim,"Dec 4, 2019","taille de l'entreprise, CE, intéressement et participation",un peu en mode startup,Employé actuel,Ingénieur Technico,Toulouse,3.3,4.0
+152,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13755-AVIS-SOC-GLASSDOOR-E1762947_P1.html,Open Minds Open Hearts Day Care,"Dec 1, 2017",Carte Tickets Restaurant + Mutuelle,Aucune considération du salarié dans l'ensemble de la hiérarchie.,Employé actuel,Ingénieur Consultant,"Tours, Centre",2.0,1.0
+153,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13614-AVIS-SOC-GLASSDOOR-E230035_P1.html,SeLoger,"Oct 10, 2019","Super locaux, Tickets restaurants, Très bonne mutuelle, 18 rtt","Quartier, Management, ils sortent des offres mais le technique ne suit pas.",Ancien employé,Account Manager,Paris,4.3,3.0
+154,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13603-AVIS-SOC-GLASSDOOR-E5772_P1.html,Volvo Trucks,"Apr 2, 2019",Une bonne production de l’entreprise,C est Pas très bien organise,Ancien employé,Mécanique,"Massy, Île-de-France",3.9,4.0
+155,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13649-AVIS-SOC-GLASSDOOR-E2548_P1.html,Manpower,"Dec 12, 2019",Avantage sur le CA de l'agence,"Pression commerciale, axé sur la quantité que la qualité",Employé actuel,Chargée De Recrutement,Paris,4.3,2.0
+156,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13806-AVIS-SOC-GLASSDOOR-E2701639_P1.html,Veolia Water Tech,"Nov 19, 2019","CP 25 jours + 14 jours de RTT +  quelque jours de pont donnés
+Remboursement des dépenses de sortir (sportif et culturelle)
+Chaque de vacances + Chaque de culturelle
+Cantine",Salaire un peu plus base par rapport le marché,Ancien employé,Employé anonyme,Paris,3.7,3.0
+157,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13637-AVIS-SOC-GLASSDOOR-E3133104_P1.html,ALTRAN,"Dec 8, 2019",il y a beaucoup de choses a apprendre,Conditions de travail doit être améliorées,Ancien employé,Employé anonyme,Paris,0.0,3.0
+158,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13625-AVIS-SOC-GLASSDOOR-E192082_P2.html,Polytechnique Montréal,"Oct 16, 2017","-Travailler avec des experts de renommée mondiale
+-Horaire Flexible",L'administration mets parfois du temps à gérer vos demande.,Employé actuel,Employé anonyme,"Montréal, QC",4.4,5.0
+159,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13640-AVIS-SOC-GLASSDOOR-E427636_P1.html,Altran Engineering Solution,"Nov 21, 2019",Bon salaire pour un premier emploi,"Suivie inexistant, aucun contact a la fin du contrat",Employé actuel,OPC,Cholet,3.2,3.0
+160,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13734-AVIS-SOC-GLASSDOOR-E10358_P1.html,Thales,"Dec 13, 2019","CE , restaurant d'entreprise ( une usine )","On se croirais dans une maison de retraite. Climat austère. Process indigeste. Aucune multiculturalité. Si l'on vient d'une entreprise externe avec  plus de 10 ans d'expérience , passer votre chemin , l'adaptation  est quasi insurmontable. Client unique ( l'armée française)… J'y suis resté 2 ans en tant que salarié , aucun accompagnement , je n'ai jamais réellement compris les attentes du poste. Pour c'est une entreprise à fuir du moins le service dans lequel je suis tombé. Entreprise à vomir",Employé actuel,Project Manager,Gennevilliers,4.1,1.0
+161,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13800-AVIS-SOC-GLASSDOOR-E1443740_P2.html,ibis,"May 7, 2018",Très bonne expérience sur gros porteur,Beaucoup d'activité on ne s’arrête jamais,Ancien employé,Assistant Chef De Reception,Roissy,3.9,5.0
+162,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13791-AVIS-SOC-GLASSDOOR-E116383_P1.html,GFI,"Sep 24, 2019","CE, mutuelle, intranet, à l'écoute des envies des collaborateurs",Peu d'expérience chez gfi je ne sais pas encore,Employé actuel,Product Owner,"Saint-Ouen, Île-de-France",2.9,4.0
+163,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13741-AVIS-SOC-GLASSDOOR-E1132227_P2.html,JEMS Group,"Jan 17, 2019",Le service des ressources humaines est sympathique et fait bien son travail. Les RH sont les seuls qui se soucient vraiment des consultants et pas juste de la rentabilité.,"Le mensonge est omniprésent chez les managers et les commerciaux et ce dès le début du processus de recrutement. 
+Les commerciaux demandent aux consultants de s'inventer des missions ou des expériences pour coller aux attentes des clients. Ils font attendre un temps certain les consultants avant de leur proposer des missions pour qu'ils se sentent obliger d'accepter une offre qui ne correspond pas à leur plan de...",Employé actuel,Junior Consultant,Neuilly,4.3,1.0
+164,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13646-AVIS-SOC-GLASSDOOR-E3489_P2.html,LVMH,"Jun 7, 2019",On acquière de l’expérience,Un groupe financier très exigeant,Employé actuel,Customer Service Manager,Bruxelles,3.7,3.0
+165,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13732-AVIS-SOC-GLASSDOOR-E158808_P1.html,Keyrus Group,"Dec 9, 2019",Des équipes humaines et très compétentes techniquement.,Manques de propositions de missions par le circuit classique (commerciaux) autour des thématiques du Cloud.,Employé actuel,Ingénieur Projet 1,Lyon,4.0,4.0
+166,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13746-AVIS-SOC-GLASSDOOR-E589990_P2.html,Capgemini Invent,"Oct 16, 2019","Les avantages sont :
+- très bon niveau d'exigence en data science
+- bon équilibre vie personnelle / travail
+- possibilité d'être en contact avec le client
+- équipe jeune
+- formations en internes proposées","- staffing peu clair
+- de grosses periodes de creux dûes à un manque de projets",Ancien employé,Employé anonyme,Paris,4.0,4.0
+167,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13803-AVIS-SOC-GLASSDOOR-E20114_P1.html,Veolia,"Dec 12, 2019","Treizième mois, très bon CE, locaux agréables",difficulté à se sentir à sa place parfois,Employé actuel,Employé anonyme,Bruxelles,3.4,3.0
+168,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13679-AVIS-SOC-GLASSDOOR-E906809_P1.html,Fortuneo SA,"Nov 23, 2019","- projets variés et intéressants
+- équilibre vie pro / vie perso (et 24 RTTs !) 
+- équipes jeunes et dynamiques
+- management à l'écoute","- inertie/frilosité dans les prises de décision
+- impact important du contexte réglementaire",Employé actuel,Employé anonyme,Paris,3.5,5.0
+169,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13723-AVIS-SOC-GLASSDOOR-E373493_P2.html,Micropole,"Jun 3, 2019","Gestion de ma carrière,  la recherche d'expertise et certification, la technologie",Des missions que régie...Peut être créer un centre de service,Employé actuel,Manager,Lille,3.2,5.0
+170,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13646-AVIS-SOC-GLASSDOOR-E3489_P1.html,LVMH,"Dec 9, 2019","Tickets restaurant 200€, locaux modernes.",Pas de salles de sport / douches accessibles aux alternants,Employé actuel,Chargé De Projets,Paris,3.7,5.0
+171,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13700-AVIS-SOC-GLASSDOOR-E1127781_P1.html,CELINE,"Nov 19, 2019",esprit d'equipe et environnement de travail,Il y pas de 13 mois,Ancien employé,Conseiller,Paris,3.0,3.0
+172,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13624-AVIS-SOC-GLASSDOOR-E397805_P2.html,STM,"May 27, 2018",avantage sociaux tres intéressant et bon salair,trop de stresse et des client qui te respecteent pas,Employé actuel,Chauffeur,"Montréal, QC",3.7,3.0
+173,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13762-AVIS-SOC-GLASSDOOR-E253138_P1.html,Artefact Group,"Jul 24, 2018","Carte Apetiz, mutuelle, remboursement à 50% des titres de transports",Les horaires : le rythme est soutenu,Employé actuel,Employé anonyme,None,3.9,5.0
+174,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13622-AVIS-SOC-GLASSDOOR-E847875_P1.html,Morgan Philips Executive Search,"Jul 4, 2019","Bonne ambiance, locaux bien placés",Il n y en a pas,Employé actuel,Employé anonyme,Neuilly,3.9,3.0
+175,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13758-AVIS-SOC-GLASSDOOR-E5694_P1.html,OpenText,"Nov 24, 2019","Salaire
+Voiture de fonction
+Pas mal de gens sympa","Open space très bruyant avec + de 30 personnes
+Mauvais management
+Stratégie commerciale catastrophique
+3 commerciaux sur  17 ont atteint l'objectif
+Turnover mondial supérieur à 60% pour les sales
+Grrandes  difficultés à ce faire payer  les primes",Employé actuel,Senior Account Manager,Paris,3.2,1.0
+176,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13618-AVIS-SOC-GLASSDOOR-E1136406_P1.html,SOTRAVO Filiale SOLOCAL GROUP,"Sep 16, 2019",Objectifs commerciaux difficiles à atteindre,Horaires turn over objectifs difficiles,Ancien employé,Commerciale,Montigny,3.0,3.0
+177,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13668-AVIS-SOC-GLASSDOOR-E1127933_P1.html,cerema,"Sep 4, 2019","Ambiance, variété missions, cohésion équipe",aucun aucun aucun aucun aucun,Ancien intérimaire,Intérimaire anonyme,"Bron, Rhône-Alpes",3.9,4.0
+178,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13652-AVIS-SOC-GLASSDOOR-E788645_P1.html,ITS Group,"Dec 12, 2019","Agence régionale proche des collaborateurs, suivis, évolution professionnelle.
+Missions variées (plusieurs grands comptes).",Comme dans toutes les ESN !,Employé actuel,responsable opérationnel de comptes,Lille,3.5,4.0
+179,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13585-AVIS-SOC-GLASSDOOR-E13058_P2.html,Cegedim,"Sep 4, 2019",De bons challenges pour évoluer en compétence. Titres restaurants et mutuelle intéressante,"Pas de cantine d'entreprise - Restaurants de proximité chers. 
+Pas de place de parking pour le personnel sauf dérogation particulière. 
+Pas de salle de détente pour déjeuner, improvisation sur les salles de réunion tout au mieux.
+Forte charge de travail avec de grosses pressions au rendez vous lorsque vous être en mode projet.
+Attention on vous scrute et vous juge sur la posture.
+Difficile de négocier de gros salaires avec 3 ans d'expérience dans le métier.
+Payé au forfait cadre pour ne pas payer les heures supplémentaires de fou que vous pouvez être amené à faire.",Employé actuel,Consultant,Boulogne-Billancourt,3.3,2.0
+180,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13661-AVIS-SOC-GLASSDOOR-E633820_P2.html,Sii Poland,"Nov 7, 2017","C'est comme toute autre société de conseil typique.
+mieux que l'autre ssii plus grand.
+travaille avec les grands clients majeurs sur le marché.
+a des projets intéressants dans mon secteur.",il reste une société de conseil donc l'évolution professionnelle est inexistante,Employé actuel,Employé anonyme,Valbonne,4.8,4.0
+181,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13787-AVIS-SOC-GLASSDOOR-E35333_P1.html,GFI Group,"Jun 24, 2017",personnel ouvert intéressant et jeune,trop petite société pas assez de monde,Senior,None,"Londres, Angleterre",3.2,3.0
+182,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13705-AVIS-SOC-GLASSDOOR-E2762239_P1.html,Sanofi Pasteur,"Oct 25, 2019","Team, rémunération, expérience, responsabilités, management",Processes tres longs (inconvénients d'un grand groupe),Employé actuel,Employé anonyme,Zagreb,4.0,5.0
+183,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13801-AVIS-SOC-GLASSDOOR-E736804_P1.html,La Redoute,"Nov 25, 2019","La force d'un grand groupe, mais des équipes à taille humaine.",Je ne trouve pas d'inconvénient,Ancien employé,Employé anonyme,Roubaix,3.9,4.0
+184,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13661-AVIS-SOC-GLASSDOOR-E633820_P1.html,Sii Poland,"Mar 11, 2019","Très bonne ambiance
+Bons projets
+Avantages sympathiques",Beaucoup de turn over des employés,Employé actuel,ingénieur developpeur,Cesson-Sévigné,4.8,5.0
+185,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13558-AVIS-SOC-GLASSDOOR-E6162_P1.html,Dassault Systemes,"Dec 4, 2019","- Collègues tres smart 
+- Formation permanente 
+- Process efficaces 
+- Fléxibilité 
+- Rémuneration et avantages très attractifs",Il n'y a pas d'inconvenients,Ancien employé,Finance,Vélizy,3.7,5.0
+186,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13563-AVIS-SOC-GLASSDOOR-E13082_P2.html,CEGID,"Aug 6, 2019",Votre CE est la seule chose qui vous sauve.,Manque absolu de respect envers les employés. C'est bien beau des faire des événements pour valoriser vos produits mais il faut penser à vos collaborateurs.,Ancien employé,Employé anonyme,Lyon,2.7,1.0
+187,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13791-AVIS-SOC-GLASSDOOR-E116383_P2.html,GFI,"Apr 22, 2015","Comité d'entreprise, tickets restaurant, choix des missions",Pas de connaissance du marché,Employé actuel,consultant moa banque finance,Neuilly,2.9,3.0
+188,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13550-AVIS-SOC-GLASSDOOR-E10686_P1.html,Atos,"Dec 13, 2019","Equilibre pro / perso
+Ambiance au sein des équipes","La rémunération
+Diversité des missions
+Evolution salariale",Employé actuel,Manager,Casablanca,3.3,3.0
+189,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13714-AVIS-SOC-GLASSDOOR-E10777_P1.html,Lectra,"Dec 10, 2019","Profils variés et intéressants
+Environnement très international","Peu de respect pour les collaborateurs
+Management autoritaire
+Structure très hiérarchisée",Ancien employé,Employé anonyme,Cestas,3.5,1.0
+190,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13714-AVIS-SOC-GLASSDOOR-E10777_P2.html,Lectra,"May 14, 2018","Gestion financière rigoureuse et saine
+Très gros moyens (locaux, formations, ...)
+Entreprise ambitieuse","Top management ultra-directif (peu de délégation, prise de décision difficile, ...)
+Culture de la compétition entre les collaborateurs",Employé actuel,Employé anonyme,Cestas,3.5,4.0
+191,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13809-AVIS-SOC-GLASSDOOR-E413452_P2.html,Transdev,"Jul 20, 2019",Des équipes engagées et passionnées,"Un management instable: 4 PDG et 4 DG France en 8 ans, des réorganisations à la chaîne, une stratégie peu claire, perte de connaissance métier et une déconnexion entre les valeurs affichées et les pratiques du management",,None,Issy,2.9,1.0
+192,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13600-AVIS-SOC-GLASSDOOR-E541990_P1.html,CGIAR,"Mar 11, 2019","Assurance, Télétravail, Flexibilité et aménagement des horaires",C'ÉTAIT UN LIEU IMPRESSIONNANT. AUCUN DESAVANTAGE QUE JE PEUX DIRE,Ancien intérimaire,Intérimaire anonyme,Montpellier,3.2,4.0
+193,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13729-AVIS-SOC-GLASSDOOR-E234791_P1.html,Astek Group,"Aug 28, 2016",Salaire plus élevé que la plupart des sociétés de services basés a Sophia Antipolis,"Politique: faire un maximum de profit
+Management: Aucun suivi
+Il vous faut démissionner si la mission ne vous convient pas!",,None,Antibes,1.7,2.0
+194,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13734-AVIS-SOC-GLASSDOOR-E10358_P2.html,Thales,"Oct 29, 2019",Projets très intéressants. Management soucieux des collaborateurs.,Beaucoup de bureaucratie et process,Employé actuel,Employé anonyme,Vélizy,4.1,5.0
+195,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13807-AVIS-SOC-GLASSDOOR-E1260894_P1.html,Groupe NICOLLIN - Groupe VEOLIA,"Dec 16, 2017","Travail dans le secteur bancaire
+Bien payé",Horaires et contexte très exigeants,Employé actuel,Employé anonyme,None,3.0,3.0
+196,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13790-AVIS-SOC-GLASSDOOR-E9028_P1.html,Gfi Informatique,"Dec 12, 2019","Des missions plutôt sympa, des managers à l'écoute, et les missions en CDS juste à côté de la gare Lille Flandres",Quelques projets sur d'anciennes stack techniques,Employé actuel,Analyste technique,Lille,3.4,5.0
+197,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13769-AVIS-SOC-GLASSDOOR-E658429_P1.html,Phaidon International,"Jun 21, 2017","- Structure de commission supérieure vous permettant d'économiser des sommes exorbitantes si vous faites bien votre travail. 
+- Excellente culture et progression, en atteignant vos objectifs de façon constante, vous recevrez rapidement une promotion et vous aurez toujours le temps d'en profiter avec des gens vraiment sympathiques.
+- De grandes chances de vous retrouver devant les clients plutôt que dans une boîte...","- Il y a très peu d'infrastructures. Cela veut dire qu'il faut sortir les poubelles - en été il fait très chaud dans le bureau.
+- Sérieusement, si je dois passer un autre week-end à skier en montagne, ou à descendre une rivière pendant 4 heures avec une bière à la main, je vais faire une dépression.",Employé actuel,Consultant principal,Zurich,3.9,3.0
+198,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13559-AVIS-SOC-GLASSDOOR-E13824_P1.html,SolidWorks,"Jan 25, 2018","Fait partie d'un grand groupe de renom comme DS (environnement international, réseau étendu mais pas toujours ouvert à la branche Solidworks).
 Salaire, intéressement, CE (ticket vacances)
 Infrastructure moderne du campus de Véilzy, grand parking.","Incompétence généralisée des manageurs
 Vision (quand il y'en a une) trop court-termiste
@@ -393,52 +421,24 @@ Manque de culture du résultat
 Fermé aux nouvelles idées ou applications - mécanique rouillé 
 Problème récurrent de communication - manque de précision
 Environnement toxique marqué par une politique d’insoumission masquée des subordonnés",Ancien employé,Ingénieur Consultant,Vélizy,3.5,1.0
-188,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13648-AVIS-SOC-GLASSDOOR-E1137726_P1.html,Sparklane,"Dec 11, 2019",souplesse de travail ert salaire,"beaucoup d'heure au boulot! une équipe a paris et une a nantes, pas évident",Ancien employé,Sales,Paris,3.4,5.0
-189,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13574-AVIS-SOC-GLASSDOOR-E1130973_P2.html,Groupe Adéquat,"Nov 24, 2017","Valeurs humaines et respect des individus, peu importe leur place dans l'entreprise, leur qualification et leur ancienneté",Mutuelle beaucoup trop chère -> environ 50€/salarié/mois,Employé actuel,Chargée De Recrutement,"Chaumont, Champagne-Ardenne",3.9,5.0
-190,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13587-AVIS-SOC-GLASSDOOR-E1838_P1.html,Robert Half,"Dec 10, 2019",Aucuns avantages à être chez eux à part le véhicule de fonction au bout d'un an et demi d'ancienneté. Encore faut-il les atteindre.,"équipe de zinzins, des incompétents, imbus d'eux mêmes, sans aucune qualité managériale.",Ancien employé,Employé anonyme,"Saint-Mard, Île-de-France",3.6,1.0
-191,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13809-AVIS-SOC-GLASSDOOR-E413452_P1.html,Transdev,"Nov 5, 2019","Un secteur d'activité passionnant. Une entreprise qui permet d'évoluer sur des métiers et des lieux géographiques très divers. Possibilité de télétravail en confiance. Sécurité de l'emploi. Rémunération : 13e mois, prime d'objectifs. Avantages : CE, cantine ou tickets restaurant, ordinateur portable et téléphone, carte fréquence SNCF si nécessaire.","Management instable, une stratégie relativement incohérente par conséquent. Un fossé qui se creuse de façon incessante entre les fonctions centrales et les activités opérationnelles. Trop peu de considération pour le métier.",Employé actuel,Employé anonyme,Issy,2.9,4.0
-192,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13571-AVIS-SOC-GLASSDOOR-E1061225_P1.html,Expertime,"Aug 14, 2019",l'ambiance est agréable sur le lieu de travail,"organisation, charge de travail mal répartie",Employé actuel,Employé anonyme,Paris,3.7,3.0
-193,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13572-AVIS-SOC-GLASSDOOR-E2098670_P2.html,Adsearch,"Mar 9, 2019",Si vous trouvez les avantages je suis preneur !,De la vrai poudre aux yeux. Un turnover incroyable des équipes. On vous force la main pour répondre au questionnaire du great place to work ! On vous pousse pour que vous mettiez la meilleure note. Des managers inexistants qui ne sont pas à l’écoute ! Veut prôner des valeurs humaines mais inexistantes ! Aucune parole n’est tenue de la part de la direction ! Je vous livre cette avis pour pas que vous tombiez dans le...,Ancien employé,Consultant en recrutement,Paris,4.5,1.0
-194,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13628-AVIS-SOC-GLASSDOOR-E235643_P1.html,University of Montreal,"Dec 4, 2019","Équipe très chaleureuse.
-Cuisine sur place.
-vieux locaux.","Équipement très vieux.
-Horaire rigide.
-Supervision d'usine",Employé actuel,Assistance technique,"Montréal, QC",3.9,1.0
-195,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13585-AVIS-SOC-GLASSDOOR-E13058_P2.html,Cegedim,"Sep 4, 2019",De bons challenges pour évoluer en compétence. Titres restaurants et mutuelle intéressante,"Pas de cantine d'entreprise - Restaurants de proximité chers. 
-Pas de place de parking pour le personnel sauf dérogation particulière. 
-Pas de salle de détente pour déjeuner, improvisation sur les salles de réunion tout au mieux.
-Forte charge de travail avec de grosses pressions au rendez vous lorsque vous être en mode projet.
-Attention on vous scrute et vous juge sur la posture.
-Difficile de négocier de gros salaires avec 3 ans d'expérience dans le métier.
-Payé au forfait cadre pour ne pas payer les heures supplémentaires de fou que vous pouvez être amené à faire.",Employé actuel,Consultant,Boulogne-Billancourt,3.3,2.0
-196,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13648-AVIS-SOC-GLASSDOOR-E1137726_P2.html,Sparklane,"Feb 6, 2018","Equipes jeunes et dynamiques
-Bonne ambiance","Management ""tiré""
-Gros horaires de travail
-Plus orienté développement que recherche",Ancien employé,Ingénieur recherche et développement,Nantes,3.4,1.0
-197,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13637-AVIS-SOC-GLASSDOOR-E3133104_P1.html,ALTRAN,"Dec 8, 2019",il y a beaucoup de choses a apprendre,Conditions de travail doit être améliorées,Ancien employé,Employé anonyme,Paris,0.0,3.0
-198,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13761-AVIS-SOC-GLASSDOOR-E1366034_P1.html,Artefact,"Nov 4, 2019","- Ambitieux programme de formation, beaucoup d'autonomie favorisant la montée en compétences 
-- Cadre agréable et bonne ambiance 
--  Missions responsabilisantes et variées",- Manque de stabilité due à la jeunesse de l'entreprise,Employé actuel,Employé anonyme,Paris,4.0,5.0
-199,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13733-AVIS-SOC-GLASSDOOR-E852040_P1.html,Yongzhi Plastic Electronics (Shenzhen) Co.,"Jan 26, 2017",mobilité du job surtout le soir,trop de travail et partage de données,,None,None,3.0,3.0
-200,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13779-AVIS-SOC-GLASSDOOR-E33451_P1.html,GFI Software,"Apr 22, 2016",La mutuelle et le CE me paraissaient relativement interessants,"GFI ressemble à beaucoup d'autres SSII importantes, par l'effectif, qui ont eu une croissance externe importante tout en conservant une organisation et une gestion  de grosse PME",,None,Lyon,2.2,2.0
-201,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13645-AVIS-SOC-GLASSDOOR-E14590_P1.html,Sephora,"Dec 3, 2019","Avantages sociaux, TR, variable",Toujours plus avec toujours moins,Employé actuel,Employé anonyme,Paris,3.6,5.0
-202,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13714-AVIS-SOC-GLASSDOOR-E10777_P2.html,Lectra,"May 14, 2018","Gestion financière rigoureuse et saine
-Très gros moyens (locaux, formations, ...)
-Entreprise ambitieuse","Top management ultra-directif (peu de délégation, prise de décision difficile, ...)
-Culture de la compétition entre les collaborateurs",Employé actuel,Employé anonyme,Cestas,3.5,4.0
-203,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13554-AVIS-SOC-GLASSDOOR-E855284_P1.html,Atos Medical,"Dec 21, 2016","Si vous aimez les gens qui s'approprient vos succès, vos idées : allez-y
-Pas de plan marketing, aucun dossier de remboursement en cours.
-Fraude la sécurité sociale en se faisant rembourser les nouvelles prothèses phonatoires avec les anciennes références qui avaient, elles, le droit d'etre remboursées","Trop long à énumérer, mais tant que cette société sera manager que sous l'aspect financier sans tenir compte du reste et plus particulièrement des patients, elle stagnera",Ancien employé,Sales and Business Development Manager,"Bagneux, Île-de-France",2.6,1.0
-204,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13584-AVIS-SOC-GLASSDOOR-E1044716_P1.html,Smile Group,"Nov 21, 2019","Ticket resto, ce, proximité manager","Régie difficile d'en sortir 
-Manque d'expertise au seins des equipes",Employé actuel,Employé anonyme,Casablanca,3.7,4.0
-205,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13584-AVIS-SOC-GLASSDOOR-E1044716_P2.html,Smile Group,"May 30, 2019","Diversité des missions, des collègues sympa, une bonne ambiance, la direction ne flic pas les employés","Locaux, salaires, travail en silos, manque de visions sur les projets",Employé actuel,Employé anonyme,Villeurbanne,3.7,3.0
-206,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13716-AVIS-SOC-GLASSDOOR-E466295_P1.html,Sopra Steria,"Dec 12, 2019","Bonne ambiance générale
-Ticket restaurant 
-Mutuelle",Management pas assez présent sur l'aspect opérationnel.,Ancien employé,Employé anonyme,Paris,3.4,4.0
-207,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13640-AVIS-SOC-GLASSDOOR-E427636_P1.html,Altran Engineering Solution,"Nov 21, 2019",Bon salaire pour un premier emploi,"Suivie inexistant, aucun contact a la fin du contrat",Employé actuel,OPC,Cholet,3.2,3.0
-208,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13701-AVIS-SOC-GLASSDOOR-E1132974_P2.html,Les Echos,"Dec 12, 2017","50% titre de transport
-Accès au restaurant d'entreprise, très varié",Bouclage quotidien et travail sous pression,Ancien stagiaire,Stagiaire anonyme,Paris,3.8,4.0
-209,/home/virus/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13550-AVIS-SOC-GLASSDOOR-E10686_P1.html,Atos,"Dec 13, 2019","Equilibre pro / perso
-Ambiance au sein des équipes","La rémunération
-Diversité des missions
-Evolution salariale",Employé actuel,Manager,Casablanca,3.3,3.0
+199,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13745-AVIS-SOC-GLASSDOOR-E3803_P1.html,Capgemini,"Dec 12, 2019","challenge intellectuel, montee en competences","Les joournees peuvent etre longues, l'integration n'est pas tres organisee",Employé actuel,Employé anonyme,Paris,3.6,4.0
+200,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13639-AVIS-SOC-GLASSDOOR-E7448_P1.html,Altran Group,"Dec 12, 2019","Cadre payé à l’heure et non au forfait.
+Remboursement frais km.",Le salaire est bas salaire.,Employé actuel,Ingénieur Consultant,Belfort,3.5,4.0
+201,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13709-AVIS-SOC-GLASSDOOR-E1365869_P1.html,Groupe Crédit Agricole du Maroc,"Oct 23, 2019","salaire, projets internationaux très intéressants","RAS dans l'ensemble, bon employeur",Employé actuel,Employé anonyme,Oujda,3.3,3.0
+202,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13723-AVIS-SOC-GLASSDOOR-E373493_P1.html,Micropole,"Oct 14, 2019","Bonne ambiance 
+Entreprise humaine",Salaires trop bas par rapport au secteur,Employé actuel,Consultant EPM,Levallois-Perret,3.2,4.0
+203,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13602-AVIS-SOC-GLASSDOOR-E3516_P2.html,Volvo Group,"Feb 20, 2019","L'équilibre travail-vie privée
+L'atmosphère particulièrement agréable
+Les processus et outils d'achat de référence","Le salaire est légèrement inférieur à la moyenne
+Il est difficile de faire évoluer sa carrière verticalement",Ancien employé,Acheteur,Lyon,4.0,4.0
+204,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13706-AVIS-SOC-GLASSDOOR-E19928_P1.html,Merial,"Aug 26, 2019",tout est bien avec l'entreprise,pas d'inconvenients dans l'entreprise Merial,Employé actuel,Employé anonyme,Lyon,4.0,5.0
+205,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13764-AVIS-SOC-GLASSDOOR-E1164584_P1.html,Artefacts Studio,"May 22, 2017",Expérience personnellement enrichissante de par  la diversité des projets gérés durant mes 4 ans.,Un studio qui gagne à être davantage connu,,None,None,4.6,5.0
+206,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13624-AVIS-SOC-GLASSDOOR-E397805_P1.html,STM,"Dec 10, 2019","Horaire flexible, salaires, Équipe, diversité d’emplois",les processus interne peuvent être amèliorer,Ancien employé,Employé anonyme,"Montréal, QC",3.7,4.0
+207,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13563-AVIS-SOC-GLASSDOOR-E13082_P1.html,CEGID,"Dec 4, 2019","Bonne ambiance, rémunération attractive entre 100 et 140k€ selon les années, remboursement de tous les frais si RDV client (IK, repas, TR, Transport, déplacements...), base installée de clients avec panels d’offres énorme (Retail, Tax, HCM, ERP, Cabinets d’EC), très bonne notoriété...","Rigidité de l’organisation, des financiers tout là haut, trop de rationalisation,  surchauffe...",Employé actuel,Senior Account Manager,Paris,2.7,5.0
+208,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13654-AVIS-SOC-GLASSDOOR-E899918_P1.html,ITS Overlap,"May 10, 2018",bonne ambiance avec les collègues,"manque de ressources
+trop axé pratique de SSII",Employé actuel,Employé anonyme,Boulogne-Billancourt,3.0,3.0
+209,/home/anthony/Documents/TD_DATALAKE/DATALAKE/1_LANDING_ZONE/GLASSDOOR/AVI/13717-AVIS-SOC-GLASSDOOR-E1187250_P1.html,Sopra Steria Recruitment,"Oct 16, 2017","Ambiance conviviale
+Avantages Mutuelle, CE
+Possibilité d'évolution interne","Salaire
+Non augmentation
+Discrimination au niveau de l'âge",Employé actuel,Employé anonyme,None,4.0,4.0
